@@ -1,0 +1,19 @@
+# 1. 首页顶部全屏大图（可以换成你喜欢的二次元插画或壁纸外链）
+index_img: https://images.unsplash.com/photo-1579783900882-c0d3dad7b119?w=1600&auto=format&fit=crop
+
+# 2. 网页全局背景底图（透过半透明卡片看到的底层壁纸）
+background: https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=1600&auto=format&fit=crop
+
+# 3. 首页大图正中央的打字机动效（截图中的名言台词效果）
+subtitle:
+  enable: true
+  loop: true          # 是否循环打字
+  source: false       # 设为 false 使用自定义文本
+  sub:
+    - "动画・漫画・游戏的表象文化批评"
+    - "图像、角色、物语、声音、虚构、数据库、和所谓‘批评’的‘深渊’、、、"
+
+# 4. 右侧作者名片栏
+avatar:
+  img: https://avatars.githubusercontent.com/u/9919?s=200&v=4 # 头像链接
+  effect: true        # 鼠标悬停头像旋转特效
