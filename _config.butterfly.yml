@@ -17,3 +17,13 @@ subtitle:
 avatar:
   img: https://avatars.githubusercontent.com/u/9919?s=200&v=4 # 头像链接
   effect: true        # 鼠标悬停头像旋转特效
+
+
+  # 5. 顶部导航菜单
+menu:
+  首页: / || fas fa-home
+  宅文化批评: /categories/宅文化批评/ || fas fa-book-open
+  书籍: /books/ || fas fa-book
+  大学院考学: /graduate/ || fas fa-graduation-cap
+  咨询服务: /consulting/ || fas fa-comments
+  关于本站: /about/ || fas fa-user
