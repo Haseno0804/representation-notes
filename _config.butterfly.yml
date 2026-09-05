@@ -19,11 +19,29 @@ avatar:
   effect: true        # 鼠标悬停头像旋转特效
 
 
-  # 5. 顶部导航菜单
+# 5. 顶部导航菜单
 menu:
   首页: / || fas fa-home
-  宅文化批评: /categories/宅文化批评/ || fas fa-book-open
-  书籍: /books/ || fas fa-book
-  大学院考学: /graduate/ || fas fa-graduation-cap
+
+  研究||fas fa-search:
+    宅文化批评: /categories/宅文化批评/ || fas fa-book-open
+    动画研究: /categories/动画研究/ || fas fa-film
+    漫画研究: /categories/漫画研究/ || fas fa-images
+    研究方法: /categories/研究方法/ || fas fa-flask
+
+  资料库||fas fa-database:
+    书籍: /books/ || fas fa-book
+    论文: /papers/ || fas fa-file-alt
+    人物: /people/ || fas fa-user
+    理论词典: /theory/ || fas fa-list
+
+  大学院考学||fas fa-graduation-cap:
+    入门: /graduate/ || fas fa-compass
+    院校数据库: /graduate/schools/ || fas fa-university
+    教授数据库: /graduate/professors/ || fas fa-user
+    研究计划书: /graduate/research-plan/ || fas fa-edit
+    过去问: /graduate/past-exams/ || fas fa-question-circle
+    出愿: /graduate/application/ || fas fa-paper-plane
+
   咨询服务: /consulting/ || fas fa-comments
-  关于本站: /about/ || fas fa-user
+  关于本站: /about/ || fas fa-info-circle
