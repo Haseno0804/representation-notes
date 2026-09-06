@@ -1,0 +1,179 @@
+@charset "UTF-8";
+/* ==============================
+   表象文化研究小站：首页样式
+   ============================== */
+
+
+/* ---------- 1. 顶部导航 ---------- */
+
+#nav {
+  background: rgba(250, 248, 244, 0.96) !important;
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  box-shadow: 0 1px 0 rgba(0, 0, 0, 0.06);
+}
+
+/* 顶部导航文字 */
+#nav #site-name,
+#nav #blog_name a,
+#nav .site-name,
+#nav .site-page,
+#nav #toggle-menu {
+  color: #2f2f2f !important;
+  text-shadow: none !important;
+}
+
+/* 防止访问过后链接重新变白 */
+#nav #blog_name a:visited,
+#nav #blog_name a:hover {
+  color: #2f2f2f !important;
+}
+
+
+/* ---------- 2. 首页大图 ---------- */
+
+#page-header.full_page {
+  height: 58vh !important;
+  min-height: 430px;
+  background-position: center center !important;
+}
+
+/* 让花画稍微退后一点，不要压住文字 */
+#page-header.full_page::before {
+  background: rgba(0, 0, 0, 0.20) !important;
+}
+
+
+/* ---------- 3. 首页标题 ---------- */
+
+#site-info {
+  top: 52% !important;
+}
+
+#site-title {
+  font-size: clamp(2rem, 4vw, 3.2rem) !important;
+  letter-spacing: 0.04em;
+}
+
+#site-subtitle {
+  margin-top: 12px;
+  font-size: 1.05rem !important;
+  letter-spacing: 0.03em;
+}
+
+/* ---------- 4. 三个首页入口 ---------- */
+
+.home-portal {
+  width: calc(100% - 40px);
+  max-width: 1200px;
+  margin: 32px auto 38px;
+  padding: 28px 32px;
+  border-radius: 16px;
+  background: rgba(255, 255, 255, 0.72);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.06);
+}
+
+.home-portal-heading {
+  margin-bottom: 10px;
+  font-size: 1.7rem;
+  font-weight: 700;
+  color: #222;
+}
+
+.home-portal-lead {
+  margin-bottom: 24px;
+  max-width: 760px;
+  line-height: 1.8;
+  color: rgba(34, 34, 34, 0.78);
+}
+
+.home-portal-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 20px;
+}
+
+.home-portal-card {
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+  min-height: 220px;
+  padding: 24px 24px 22px;
+  border: 1px solid rgba(0, 0, 0, 0.06);
+  border-radius: 14px;
+  background: rgba(255, 255, 255, 0.92);
+  color: inherit !important;
+  text-decoration: none !important;
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.04);
+  transition: transform 0.22s ease, box-shadow 0.22s ease;
+}
+
+.home-portal-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 12px 28px rgba(0, 0, 0, 0.08);
+}
+
+.home-portal-number {
+  margin-bottom: 12px;
+  font-size: 0.78rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  color: #49b1f5;
+}
+
+.home-portal-card h2 {
+  margin: 0 0 12px !important;
+  font-size: 1.32rem !important;
+  line-height: 1.45;
+  color: #222;
+}
+
+.home-portal-card p {
+  flex: 1;
+  margin: 0 0 16px;
+  line-height: 1.8;
+  color: rgba(34, 34, 34, 0.72);
+}
+
+.home-portal-link {
+  font-size: 0.95rem;
+  font-weight: 600;
+  color: #49b1f5;
+}
+
+
+/* ---------- 5. 最近更新标题 ---------- */
+
+.home-latest-title {
+  margin: 12px 0 20px;
+  font-size: 1.58rem;
+  font-weight: 700;
+  color: #fff;
+  text-shadow: 0 2px 6px rgba(0, 0, 0, 0.65);
+}
+
+
+/* ---------- 手机 ---------- */
+
+@media (max-width: 768px) {
+
+  #page-header.full_page {
+    height: 48vh !important;
+    min-height: 360px;
+  }
+
+  .home-portal {
+    padding: 22px 18px;
+    margin: 18px 0 28px;
+  }
+
+  .home-portal-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .home-portal-card {
+    min-height: auto;
+  }
+}
