@@ -39,11 +39,11 @@ top_img: false
     <small>教授数据库・建设中</small>
   </div>
 
-  <div class="graduate-card graduate-card-disabled">
-    <strong>📝 研究计划书</strong>
-    <span>从兴趣、选题到一个真正可以研究的问题</span>
-    <small>研究计划书栏目・建设中</small>
-  </div>
+  <a class="graduate-card" href="/graduate/research-plan/">
+  <strong>📝 研究计划书</strong>
+  <span>从兴趣、选题到一个真正可以研究的问题</span>
+  <small>进入研究计划书指南 →</small>
+  </a>
 
   <div class="graduate-card graduate-card-disabled">
     <strong>📚 准备笔试</strong>
@@ -1388,15 +1388,15 @@ a.graduate-card:hover strong {
     <small>教授数据库・建设中</small>
   </div>
 
-  <div class="next-step-card next-step-disabled">
-    <div class="next-step-icon">📝</div>
-    <div class="next-step-label">研究计划书</div>
-    <h3>怎么把兴趣变成研究题目？</h3>
-    <p>
-      从选题、先行研究、问题意识到研究方法，逐步形成可以实际执行的研究计划。
-    </p>
-    <small>研究计划书栏目・建设中</small>
-  </div>
+  <a class="next-step-card" href="/graduate/research-plan/">
+  <div class="next-step-icon">📝</div>
+  <div class="next-step-label">研究计划书</div>
+  <h3>怎么把兴趣变成研究题目？</h3>
+  <p>
+    从选题、先行研究、问题意识到研究方法，逐步形成可以实际执行的研究计划。
+  </p>
+  <small>进入研究计划书指南 →</small>
+  </a>
 
   <div class="next-step-card next-step-disabled">
     <div class="next-step-icon">📚</div>
@@ -1418,15 +1418,15 @@ a.graduate-card:hover strong {
     <small>出愿指南・建设中</small>
   </div>
 
-  <div class="next-step-card next-step-disabled next-step-consult">
+  <a class="next-step-card next-step-consult" href="/consulting/">
     <div class="next-step-icon">💬</div>
     <div class="next-step-label">个别情况</div>
     <h3>我的问题很具体，不知道怎么判断</h3>
     <p>
-      如果涉及个人选题、教授匹配、研究计划书结构或具体考学规划，可以进一步查看咨询服务。
+    如果涉及个人选题、教授匹配、研究计划书结构或具体考学规划，可以进一步查看咨询服务。
     </p>
-    <small>咨询服务・准备中</small>
-  </div>
+    <small>查看咨询服务 →</small>
+  </a>
 
 </div>
 

@@ -11,7 +11,9 @@ subtitle:
   source: false       # 设为 false 使用自定义文本
   sub:
     - "宅文化的阅读、研究、与批评"
-    - "从表象、媒介、身体的视角"
+    - "表象、媒介、身体..."
+    - "动画、漫画、游戏..."
+    
 
 # 4. 右侧作者名片栏
 avatar:
@@ -27,6 +29,7 @@ menu:
     宅文化批评: /categories/宅文化批评/ || fas fa-book-open
     动画研究: /categories/动画研究/ || fas fa-film
     漫画研究: /categories/漫画研究/ || fas fa-images
+    游戏研究: /categories/游戏研究/ || fas fa-gamepad
     研究方法: /categories/研究方法/ || fas fa-flask
 
   资料库||fas fa-database:
@@ -52,7 +55,7 @@ aside:
 
   card_author:
     enable: true
-    description: "QQ群1090084816二次元吹水杂谈考学什么都行"
+    description: "QQ群1090084816二次元吹水杂谈考学什么都行，欢迎来玩～"
     button:
       enable: true
       icon: fas fa-circle-info
@@ -61,4 +64,4 @@ aside:
 
   card_announcement:
     enable: true
-    content: "这里整理宅文化批评相关的阅读、研究资料，以及日本表象文化大学院 DIY 考学信息。网站仍在持续建设中。"
+    content: "整理一些宅文化批评相关的阅读、研究资料，以及日本表象文化大学院的考学信息。站长仍在努力中～"
