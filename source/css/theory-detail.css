@@ -1,0 +1,90 @@
+.theory-detail-head {
+  margin-bottom: 30px;
+  padding: 28px 30px;
+  border: 1px solid #e6e6e6;
+  border-radius: 14px;
+  background: rgba(255,255,255,.86);
+}
+
+.theory-detail-kicker {
+  margin-bottom: 8px;
+  color: #49b1f5;
+  font-size: .82em;
+  font-weight: 700;
+}
+
+.theory-detail-title {
+  font-size: 2em;
+  font-weight: 750;
+}
+
+.theory-detail-jp {
+  margin: 5px 0 14px;
+  opacity: .52;
+}
+
+.theory-detail-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.theory-detail-tag {
+  padding: 6px 10px;
+  border-radius: 999px;
+  background: rgba(73,177,245,.10);
+  color: #358cc4;
+  font-size: .84em;
+}
+
+.theory-definition {
+  margin: 22px 0;
+  padding: 20px 22px;
+  border-left: 4px solid #49b1f5;
+  border-radius: 8px;
+  background: rgba(73,177,245,.08);
+  line-height: 1.9;
+}
+
+.theory-detail-box {
+  margin: 20px 0;
+  padding: 20px 22px;
+  border: 1px solid #e6e6e6;
+  border-radius: 10px;
+  background: rgba(255,255,255,.84);
+  line-height: 1.85;
+}
+
+.theory-detail-warning {
+  margin: 22px 0;
+  padding: 20px 22px;
+  border-radius: 10px;
+  background: rgba(0,0,0,.04);
+  line-height: 1.9;
+}
+
+.theory-detail-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin: 25px 0;
+}
+
+.theory-detail-button,
+.theory-detail-button:visited {
+  padding: 9px 14px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  color: inherit !important;
+  text-decoration: none !important;
+}
+
+.theory-detail-button:hover {
+  border-color: #49b1f5;
+}
+
+@media (max-width: 768px) {
+  .theory-detail-head {
+    padding: 22px 20px;
+  }
+}

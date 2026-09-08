@@ -13,7 +13,8 @@ subtitle:
     - "宅文化的阅读、研究、与批评"
     - "表象、媒介、身体..."
     - "动画、漫画、游戏..."
-    
+    - "咪啪～"
+    - "咪～"
 
 # 4. 右侧作者名片栏
 avatar:
@@ -26,6 +27,7 @@ menu:
   首页: / || fas fa-home
 
   研究||fas fa-search:
+    研究总览: /research/ || fas fa-compass
     宅文化批评: /categories/宅文化批评/ || fas fa-book-open
     动画研究: /categories/动画研究/ || fas fa-film
     漫画研究: /categories/漫画研究/ || fas fa-images
@@ -33,6 +35,7 @@ menu:
     研究方法: /categories/研究方法/ || fas fa-flask
 
   资料库||fas fa-database:
+    资料总览: /library/ || fas fa-compass
     书籍: /books/ || fas fa-book
     论文: /papers/ || fas fa-file-alt
     人物: /people/ || fas fa-user
@@ -45,6 +48,7 @@ menu:
     研究计划书: /graduate/research-plan/ || fas fa-edit
     过去问: /graduate/past-exams/ || fas fa-question-circle
     出愿: /graduate/application/ || fas fa-paper-plane
+    面试: /graduate/interview/ || fas fa-comments
 
   咨询服务: /consulting/ || fas fa-comments
   关于本站: /about/ || fas fa-info-circle

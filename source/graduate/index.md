@@ -27,17 +27,17 @@ top_img: false
     <small>从这里开始 →</small>
   </a>
 
-  <div class="graduate-card graduate-card-disabled">
+  <a class="graduate-card" href="/graduate/schools/">
     <strong>🏫 寻找院校</strong>
     <span>哪些大学院可以研究动画、漫画、游戏与御宅文化？</span>
-    <small>院校数据库・建设中</small>
-  </div>
+    <small>进入院校数据库 →</small>
+  </a>
 
-  <div class="graduate-card graduate-card-disabled">
+  <a class="graduate-card" href="/graduate/professors/">
     <strong>👤 寻找教授</strong>
     <span>自己的研究主题应该找什么样的教授指导？</span>
-    <small>教授数据库・建设中</small>
-  </div>
+    <small>进入教授数据库 →</small>
+  </a>
 
   <a class="graduate-card" href="/graduate/research-plan/">
   <strong>📝 研究计划书</strong>
@@ -45,17 +45,17 @@ top_img: false
   <small>进入研究计划书指南 →</small>
   </a>
 
-  <div class="graduate-card graduate-card-disabled">
+  <a class="graduate-card" href="/graduate/past-exams/">
     <strong>📚 准备笔试</strong>
-    <span>专业知识、推荐阅读与大学院过去问</span>
-    <small>过去问栏目・建设中</small>
-  </div>
+    <span>专业知识、过去问分析与笔试准备方法</span>
+    <small>进入过去问与笔试指南 →</small>
+  </a>
 
-  <div class="graduate-card graduate-card-disabled">
+  <a class="graduate-card" href="/graduate/application/">
     <strong>📮 准备出愿</strong>
     <span>募集要项、申请材料与重要时间节点</span>
-    <small>出愿指南・建设中</small>
-  </div>
+    <small>进入出愿指南 →</small>
+  </a>
 
 </div>
 
@@ -487,6 +487,26 @@ a.graduate-card:hover strong {
   border-radius: 10px;
   background: rgba(255, 255, 255, 0.55);
 }
+a.database-preview-card,
+a.database-preview-card:visited {
+  color: inherit !important;
+  text-decoration: none !important;
+}
+
+a.database-preview-card {
+  transition: .2s ease;
+}
+
+a.database-preview-card:hover {
+  transform: translateY(-3px);
+  border-color: #49b1f5;
+  box-shadow: 0 7px 20px rgba(0, 0, 0, .06);
+}
+
+a.database-preview-card small {
+  color: #358cc4;
+  font-weight: 650;
+}
 
 .database-preview-card strong {
   font-size: 1.08em;
@@ -512,6 +532,19 @@ a.graduate-card:hover strong {
   border: 1px solid #e5e5e5;
   border-radius: 10px;
   background: rgba(255, 255, 255, 0.82);
+}
+.exam-part-link,
+.exam-part-link:visited {
+  display: inline-block;
+  margin-top: 12px;
+  color: #358cc4 !important;
+  font-size: .88em;
+  font-weight: 650;
+  text-decoration: none !important;
+}
+
+.exam-part-link:hover {
+  text-decoration: underline !important;
 }
 
 .exam-part-icon {
@@ -1212,17 +1245,17 @@ a.graduate-card:hover strong {
 
 <div class="database-preview">
 
-  <div class="database-preview-card">
+  <a class="database-preview-card" href="/graduate/schools/">
     <strong>🏫 院校数据库</strong>
     <span>整理可研究动画、漫画、游戏、御宅文化及相关表象文化方向的日本大学院。</span>
-    <small>建设中</small>
-  </div>
+    <small>进入院校数据库 →</small>
+  </a>
 
-  <div class="database-preview-card">
+  <a class="database-preview-card" href="/graduate/professors/">
     <strong>👤 教授数据库</strong>
     <span>按照研究方向、关键词、所属大学与代表成果整理相关教授。</span>
-    <small>建设中</small>
-  </div>
+    <small>进入教授数据库 →</small>
+  </a>
 
 </div>
 
@@ -1259,6 +1292,7 @@ a.graduate-card:hover strong {
     <p>
       “过去问”就是历年的考试题。它可以帮助你判断学校究竟重视什么，以及应该如何准备。
     </p>
+    <a class="exam-part-link" href="/graduate/past-exams/">查看过去问与笔试指南 →</a>
     <ul>
       <li>题目类型</li>
       <li>专业知识范围</li>
@@ -1299,6 +1333,7 @@ a.graduate-card:hover strong {
       <li>先行研究与研究方法</li>
       <li>研究计划的可行性</li>
     </ul>
+    <a class="exam-part-link" href="/graduate/interview/">查看面试与口述考试指南 →</a>
   </div>
 
 </div>
@@ -1368,25 +1403,25 @@ a.graduate-card:hover strong {
 
 <div class="next-step-grid">
 
-  <div class="next-step-card next-step-disabled">
+  <a class="next-step-card" href="/graduate/schools/">
     <div class="next-step-icon">🏫</div>
     <div class="next-step-label">查找院校</div>
     <h3>我可以申请哪些大学院？</h3>
     <p>
-      根据研究方向、研究科、考试方式和出愿条件，逐渐建立自己的目标校名单。
+    根据研究方向、研究科、考试方式和出愿条件，逐渐建立自己的目标校名单。
     </p>
-    <small>院校数据库・建设中</small>
-  </div>
+    <small>进入院校数据库 →</small>
+  </a>
 
-  <div class="next-step-card next-step-disabled">
+  <a class="next-step-card" href="/graduate/professors/">
     <div class="next-step-icon">👤</div>
     <div class="next-step-label">查找教授</div>
-    <h3>谁更适合指导我的研究？</h3>
+    <h3>谁适合指导我的研究？</h3>
     <p>
-      根据教授的研究方向、方法、近期成果和所属研究科判断匹配程度。
+    根据教授的研究方向、方法、近期成果和所属研究科判断匹配程度。
     </p>
-    <small>教授数据库・建设中</small>
-  </div>
+    <small>进入教授数据库 →</small>
+  </a>
 
   <a class="next-step-card" href="/graduate/research-plan/">
   <div class="next-step-icon">📝</div>
@@ -1415,7 +1450,7 @@ a.graduate-card:hover strong {
     <p>
       阅读募集要项，确认材料、截止日期、语言要求和正式出愿流程。
     </p>
-    <small>出愿指南・建设中</small>
+    <a class="exam-part-link" href="/graduate/application/">查看出愿指南 →</a>
   </div>
 
   <a class="next-step-card next-step-consult" href="/consulting/">

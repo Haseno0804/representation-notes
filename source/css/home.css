@@ -177,3 +177,11 @@
     min-height: auto;
   }
 }
+
+/* 首页顶部一级导航统一字号与字重 */
+#nav .menus_items > .menus_item > a,
+#nav .menus_items > .menus_item > .site-page {
+  font-size: 16px !important;
+  font-weight: 500 !important;
+  letter-spacing: 0.01em;
+}

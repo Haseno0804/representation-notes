@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', function () {
     <div class="home-portal-grid">
 
       <a class="home-portal-card"
-         href="/categories/宅文化批评/">
+         href="/research/">
 
         <div class="home-portal-number">01 · RESEARCH</div>
 
@@ -50,7 +50,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
 
       <a class="home-portal-card"
-         href="/books/">
+         href="/library/">
 
         <div class="home-portal-number">02 · LIBRARY</div>
 

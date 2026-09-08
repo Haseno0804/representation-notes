@@ -1,0 +1,272 @@
+.school-detail-head {
+  margin-bottom: 32px;
+  padding: 28px 30px;
+  border: 1px solid #e7e7e7;
+  border-radius: 14px;
+  background: rgba(255,255,255,.86);
+}
+
+.school-detail-kicker {
+  margin-bottom: 8px;
+  font-size: .85rem;
+  font-weight: 700;
+  color: #49b1f5;
+  letter-spacing: .08em;
+}
+
+.school-detail-name {
+  margin: 0 0 8px;
+  font-size: 2em;
+  font-weight: 750;
+}
+
+.school-detail-dept {
+  margin-bottom: 18px;
+  line-height: 1.75;
+  opacity: .68;
+}
+
+.school-detail-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.school-detail-tag {
+  padding: 6px 11px;
+  border-radius: 999px;
+  background: rgba(73,177,245,.11);
+  color: #358cc4;
+  font-size: .86em;
+}
+
+.school-summary-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 14px;
+  margin: 22px 0 34px;
+}
+
+.school-summary-card {
+  padding: 18px 19px;
+  border: 1px solid #e7e7e7;
+  border-radius: 10px;
+  background: rgba(255,255,255,.84);
+}
+
+.school-summary-label {
+  margin-bottom: 6px;
+  font-size: .78em;
+  font-weight: 700;
+  color: #49b1f5;
+}
+
+.school-summary-value {
+  font-size: .96em;
+  font-weight: 650;
+  line-height: 1.6;
+}
+
+.school-detail-note {
+  margin: 24px 0;
+  padding: 18px 20px;
+  border-left: 4px solid #49b1f5;
+  border-radius: 8px;
+  background: rgba(73,177,245,.08);
+  line-height: 1.9;
+}
+
+.teacher-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 16px;
+  margin: 22px 0 34px;
+}
+
+.teacher-card {
+  padding: 20px 22px;
+  border: 1px solid #e7e7e7;
+  border-radius: 10px;
+  background: rgba(255,255,255,.84);
+}
+
+.teacher-name {
+  margin-bottom: 6px;
+  font-weight: 750;
+  font-size: 1.08em;
+}
+
+.teacher-field {
+  margin-bottom: 8px;
+  color: #358cc4;
+  font-size: .88em;
+  font-weight: 650;
+}
+
+.teacher-desc {
+  line-height: 1.8;
+  opacity: .78;
+}
+
+.exam-flow {
+  display: flex;
+  flex-direction: column;
+  gap: 13px;
+  margin: 22px 0 34px;
+}
+
+.exam-step {
+  display: grid;
+  grid-template-columns: 64px 1fr;
+  gap: 16px;
+  padding: 18px 20px;
+  border: 1px solid #e7e7e7;
+  border-radius: 10px;
+  background: rgba(255,255,255,.84);
+}
+
+.exam-step-number {
+  font-weight: 750;
+  color: #49b1f5;
+}
+
+.exam-step strong {
+  display: block;
+  margin-bottom: 5px;
+}
+
+.exam-step p {
+  margin: 0;
+  line-height: 1.8;
+  opacity: .78;
+}
+
+.school-editorial {
+  margin: 22px 0 30px;
+  padding: 22px 24px;
+  border-radius: 10px;
+  background: rgba(0,0,0,.035);
+  line-height: 1.9;
+}
+
+.school-editorial strong {
+  color: #333;
+}
+.school-resource-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 14px;
+  margin: 22px 0 30px;
+}
+
+.school-resource-card,
+.school-resource-card:visited {
+  display: block;
+  padding: 19px 21px;
+  border: 1px solid #e5e5e5;
+  border-radius: 10px;
+  background: rgba(255,255,255,.84);
+  color: inherit !important;
+  text-decoration: none !important;
+  transition: .2s ease;
+}
+
+.school-resource-card:hover {
+  transform: translateY(-2px);
+  border-color: #49b1f5;
+  box-shadow: 0 7px 20px rgba(0,0,0,.06);
+}
+
+.school-resource-type {
+  margin-bottom: 7px;
+  color: #49b1f5;
+  font-size: .78rem;
+  font-weight: 700;
+  letter-spacing: .05em;
+}
+
+.school-resource-title {
+  margin-bottom: 7px;
+  font-size: 1.02em;
+  font-weight: 700;
+}
+
+.school-resource-desc {
+  font-size: .88em;
+  line-height: 1.75;
+  opacity: .68;
+}
+
+.school-resource-arrow {
+  margin-top: 11px;
+  color: #358cc4;
+  font-size: .86em;
+  font-weight: 650;
+}
+
+.school-past-note {
+  margin: 18px 0 30px;
+  padding: 17px 19px;
+  border-radius: 9px;
+  background: rgba(73,177,245,.07);
+  line-height: 1.85;
+}
+
+.school-past-note strong {
+  color: #358cc4;
+}
+
+@media (max-width: 768px) {
+  .school-resource-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+.school-update {
+  margin: 28px 0 18px;
+  padding-top: 16px;
+  border-top: 1px solid #e8e8e8;
+  font-size: .87em;
+  opacity: .62;
+}
+
+.school-back,
+.school-back:visited {
+  display: inline-block;
+  margin-top: 8px;
+  padding: 9px 15px;
+  border: 1px solid #dcdcdc;
+  border-radius: 8px;
+  color: inherit !important;
+  text-decoration: none !important;
+}
+
+.school-back:hover {
+  border-color: #49b1f5;
+  transform: translateY(-1px);
+}
+
+@media (max-width: 900px) {
+  .school-summary-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 768px) {
+  .school-detail-head {
+    padding: 22px 20px;
+  }
+
+  .school-detail-name {
+    font-size: 1.65em;
+  }
+
+  .teacher-grid,
+  .school-summary-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .exam-step {
+    grid-template-columns: 46px 1fr;
+  }
+}

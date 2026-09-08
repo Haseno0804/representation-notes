@@ -1,0 +1,82 @@
+.person-detail-head {
+  margin-bottom: 30px;
+  padding: 28px 30px;
+  border: 1px solid #e6e6e6;
+  border-radius: 14px;
+  background: rgba(255,255,255,.86);
+}
+
+.person-detail-kicker {
+  margin-bottom: 8px;
+  color: #49b1f5;
+  font-size: .82em;
+  font-weight: 700;
+}
+
+.person-detail-name {
+  font-size: 2em;
+  font-weight: 750;
+}
+
+.person-detail-roman {
+  margin: 5px 0 14px;
+  opacity: .52;
+}
+
+.person-detail-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.person-detail-tag {
+  padding: 6px 10px;
+  border-radius: 999px;
+  background: rgba(73,177,245,.10);
+  color: #358cc4;
+  font-size: .84em;
+}
+
+.person-detail-note {
+  margin: 22px 0;
+  padding: 18px 20px;
+  border-left: 4px solid #49b1f5;
+  border-radius: 8px;
+  background: rgba(73,177,245,.08);
+  line-height: 1.9;
+}
+
+.person-detail-book {
+  margin: 14px 0;
+  padding: 18px 20px;
+  border: 1px solid #e6e6e6;
+  border-radius: 9px;
+  background: rgba(255,255,255,.84);
+  line-height: 1.8;
+}
+
+.person-detail-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin: 25px 0;
+}
+
+.person-detail-button,
+.person-detail-button:visited {
+  padding: 9px 14px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  color: inherit !important;
+  text-decoration: none !important;
+}
+
+.person-detail-button:hover {
+  border-color: #49b1f5;
+}
+
+@media (max-width: 768px) {
+  .person-detail-head {
+    padding: 22px 20px;
+  }
+}
