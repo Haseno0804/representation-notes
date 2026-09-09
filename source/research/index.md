@@ -260,7 +260,7 @@ top_img: false
 
 <div class="research-field-grid">
 
-<a class="research-field-card featured" href="/categories/宅文化批评/">
+<a class="research-field-card featured" href="/research/otaku/">
 <div class="research-field-number">01 · OTAKU CULTURE</div>
 <div class="research-field-title">宅文化批评</div>
 <div class="research-field-desc">讨论御宅文化、角色消费、萌、亚文化、粉丝实践、二次创作以及动画漫画游戏之间形成的文化网络。这是本站最核心的研究方向。</div>
@@ -275,7 +275,7 @@ top_img: false
 <div class="research-field-enter">进入宅文化批评 →</div>
 </a>
 
-<a class="research-field-card" href="/categories/动画研究/">
+<a class="research-field-card" href="/research/anime/">
 <div class="research-field-number">02 · ANIMATION</div>
 <div class="research-field-title">动画研究</div>
 <div class="research-field-desc">不只讨论“故事讲了什么”，也关注动画如何通过运动、构图、声音、身体与媒介形式制造意义。</div>
@@ -288,7 +288,7 @@ top_img: false
 <div class="research-field-enter">进入动画研究 →</div>
 </a>
 
-<a class="research-field-card" href="/categories/漫画研究/">
+<a class="research-field-card" href="/research/manga/">
 <div class="research-field-number">03 · MANGA</div>
 <div class="research-field-title">漫画研究</div>
 <div class="research-field-desc">从格、时间、图像与文字、阅读方式以及漫画史出发，把漫画自身作为一种视觉与媒介形式来研究。</div>
@@ -301,7 +301,7 @@ top_img: false
 <div class="research-field-enter">进入漫画研究 →</div>
 </a>
 
-<a class="research-field-card" href="/categories/游戏研究/">
+<a class="research-field-card" href="/research/game/">
 <div class="research-field-number">04 · GAME STUDIES</div>
 <div class="research-field-title">游戏研究</div>
 <div class="research-field-desc">关注玩家、操作、游戏空间、Avatar、角色、叙事和 Play，讨论游戏区别于动画与漫画的媒介特性。</div>
@@ -314,7 +314,7 @@ top_img: false
 <div class="research-field-enter">进入游戏研究 →</div>
 </a>
 
-<a class="research-field-card" href="/categories/研究方法/">
+<a class="research-field-card" href="/research/methods/">
 <div class="research-field-number">05 · METHODS</div>
 <div class="research-field-title">研究方法</div>
 <div class="research-field-desc">讨论怎样把“我对这个作品很感兴趣”进一步转化成能够分析、论证和讨论的研究问题。</div>

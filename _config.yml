@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: PP的宅文化研究小站
+title: 音色工艺＃×P的宅文化研究小站
 subtitle: 动画＆漫画＆游戏的表象研究
 description: 分享一些表象文化研究＆考学相关的资料，鉴于站长的专攻是宅文化批评，所以主要以二次元批评为主（，qq群1090084816欢迎来吹水聊天捏
 keywords:
-author: Policep（PPp）
+author: 音色工艺＃×P
 language: zh-CN
 timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: https://otakubunkahihyo.pages.dev
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:

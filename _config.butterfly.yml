@@ -27,12 +27,12 @@ menu:
   首页: / || fas fa-home
 
   研究||fas fa-search:
-    研究总览: /research/ || fas fa-compass
-    宅文化批评: /categories/宅文化批评/ || fas fa-book-open
-    动画研究: /categories/动画研究/ || fas fa-film
-    漫画研究: /categories/漫画研究/ || fas fa-images
-    游戏研究: /categories/游戏研究/ || fas fa-gamepad
-    研究方法: /categories/研究方法/ || fas fa-flask
+     研究总览: /research/ || fas fa-compass
+     宅文化批评: /research/otaku/ || fas fa-book-open
+     动画研究: /research/anime/ || fas fa-film
+     漫画研究: /research/manga/ || fas fa-images
+     游戏研究: /research/game/ || fas fa-gamepad
+     研究方法: /research/methods/ || fas fa-flask
 
   资料库||fas fa-database:
     资料总览: /library/ || fas fa-compass
