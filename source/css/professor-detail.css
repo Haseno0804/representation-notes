@@ -233,3 +233,125 @@
     font-size: 1.65em;
   }
 }
+
+/* =========================================
+   PROFESSOR DATABASE DETAIL EXTENSION
+   ========================================= */
+
+.professor-db-kicker {
+  margin-bottom: 9px;
+  color: #49b1f5;
+  font-size: .79em;
+  font-weight: 750;
+  letter-spacing: .08em;
+}
+
+.professor-db-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 7px;
+  margin-top: 17px;
+}
+
+.professor-db-tag {
+  display: inline-block;
+  padding: 5px 9px;
+  border-radius: 999px;
+  background: rgba(73,177,245,.10);
+  color: #358cc4;
+  font-size: .8em;
+  line-height: 1.4;
+}
+
+.professor-db-note {
+  margin: 22px 0 32px;
+  padding: 18px 20px;
+  border-left: 4px solid #49b1f5;
+  border-radius: 8px;
+  background: rgba(73,177,245,.065);
+  line-height: 1.9;
+}
+
+.professor-summary-item {
+  padding: 17px 18px;
+  border: 1px solid #e7e7e7;
+  border-radius: 9px;
+  background: rgba(255,255,255,.85);
+}
+
+.professor-summary-item strong {
+  display: block;
+  margin-bottom: 7px;
+  font-size: .78em;
+  opacity: .58;
+}
+
+.professor-summary-item span {
+  line-height: 1.7;
+  font-weight: 650;
+}
+
+.professor-topic-card {
+  padding: 20px 21px;
+  border: 1px solid #e5e5e5;
+  border-radius: 10px;
+  background: rgba(255,255,255,.86);
+}
+
+.professor-topic-card h3 {
+  margin-top: 0;
+  margin-bottom: 9px;
+  font-size: 1em;
+}
+
+.professor-topic-card p {
+  margin-bottom: 0;
+  line-height: 1.85;
+}
+
+.professor-db-judgement {
+  margin: 22px 0 32px;
+  padding: 21px 23px;
+  border: 1px solid rgba(73,177,245,.22);
+  border-radius: 10px;
+  background: rgba(73,177,245,.045);
+  line-height: 1.9;
+}
+
+.professor-work-grid {
+  display: grid;
+  grid-template-columns: repeat(2,1fr);
+  gap: 15px;
+  margin: 22px 0 34px;
+}
+
+.professor-work-card {
+  padding: 20px 21px;
+  border: 1px solid #e6e6e6;
+  border-radius: 10px;
+  background: rgba(255,255,255,.86);
+}
+
+.professor-work-year {
+  margin-bottom: 6px;
+  color: #49b1f5;
+  font-size: .78em;
+  font-weight: 750;
+}
+
+.professor-work-card h3 {
+  margin: 0 0 9px;
+  font-size: 1em;
+}
+
+.professor-work-card p {
+  margin-bottom: 0;
+  line-height: 1.8;
+  opacity: .76;
+}
+
+@media (max-width: 768px) {
+  .professor-work-grid {
+    grid-template-columns: 1fr;
+  }
+}

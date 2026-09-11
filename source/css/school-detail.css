@@ -270,3 +270,323 @@
     grid-template-columns: 46px 1fr;
   }
 }
+/* ==================================================
+   SCHOOL DATABASE DETAIL V2
+   ================================================== */
+
+.school-db-head {
+  margin-bottom: 28px;
+  padding: 28px 30px;
+  border: 1px solid rgba(73,177,245,.22);
+  border-radius: 14px;
+  background:
+    linear-gradient(
+      135deg,
+      rgba(73,177,245,.07),
+      rgba(255,255,255,.90) 60%
+    );
+}
+
+.school-db-kicker {
+  margin-bottom: 8px;
+  color: #49b1f5;
+  font-size: .8em;
+  font-weight: 750;
+  letter-spacing: .08em;
+}
+
+.school-db-title {
+  margin-bottom: 6px;
+  font-size: 1.85em;
+  font-weight: 750;
+}
+
+.school-db-en {
+  margin-bottom: 16px;
+  font-size: .9em;
+  opacity: .52;
+}
+
+.school-db-path {
+  margin-top: 15px;
+  padding-top: 15px;
+  border-top: 1px solid rgba(0,0,0,.07);
+  line-height: 1.8;
+}
+
+.school-db-status-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-top: 18px;
+}
+
+.school-db-status {
+  display: inline-block;
+  padding: 6px 10px;
+  border-radius: 999px;
+  background: rgba(73,177,245,.10);
+  color: #358cc4;
+  font-size: .81em;
+  font-weight: 650;
+}
+
+.school-db-status.ok {
+  background: rgba(70,180,120,.10);
+  color: #32916a;
+}
+
+.school-db-status.warn {
+  background: rgba(230,165,60,.12);
+  color: #b17720;
+}
+
+.school-db-info-grid {
+  display: grid;
+  grid-template-columns: repeat(4,1fr);
+  gap: 13px;
+  margin: 24px 0 34px;
+}
+
+.school-db-info-card {
+  padding: 17px 18px;
+  border: 1px solid #e5e5e5;
+  border-radius: 10px;
+  background: rgba(255,255,255,.84);
+}
+
+.school-db-info-label {
+  margin-bottom: 6px;
+  color: #888;
+  font-size: .76em;
+  font-weight: 700;
+}
+
+.school-db-info-value {
+  line-height: 1.65;
+  font-weight: 650;
+}
+
+.school-db-note {
+  margin: 22px 0 32px;
+  padding: 18px 20px;
+  border-left: 4px solid #49b1f5;
+  border-radius: 8px;
+  background: rgba(73,177,245,.07);
+  line-height: 1.9;
+}
+
+.school-db-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin: 20px 0 30px;
+}
+
+.school-db-tag {
+  padding: 6px 10px;
+  border-radius: 999px;
+  background: rgba(73,177,245,.09);
+  color: #358cc4;
+  font-size: .82em;
+}
+
+.school-db-fit-grid {
+  display: grid;
+  grid-template-columns: repeat(2,1fr);
+  gap: 15px;
+  margin: 22px 0 34px;
+}
+
+.school-db-fit-card {
+  padding: 20px 21px;
+  border: 1px solid #e5e5e5;
+  border-radius: 10px;
+  background: rgba(255,255,255,.84);
+}
+
+.school-db-fit-title {
+  margin-bottom: 8px;
+  font-weight: 750;
+}
+
+.school-db-fit-desc {
+  line-height: 1.8;
+  opacity: .74;
+}
+
+.school-db-teacher-grid {
+  display: grid;
+  grid-template-columns: repeat(2,1fr);
+  gap: 16px;
+  margin: 22px 0 34px;
+}
+
+.school-db-teacher-card {
+  padding: 22px 23px;
+  border: 1px solid #e5e5e5;
+  border-radius: 11px;
+  background: rgba(255,255,255,.86);
+}
+
+.school-db-teacher-name {
+  margin-bottom: 5px;
+  font-size: 1.15em;
+  font-weight: 750;
+}
+
+.school-db-teacher-role {
+  margin-bottom: 11px;
+  font-size: .86em;
+  opacity: .55;
+}
+
+.school-db-teacher-desc {
+  line-height: 1.82;
+  opacity: .76;
+}
+
+.school-db-table-wrap {
+  overflow-x: auto;
+  margin: 22px 0 34px;
+}
+
+.school-db-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: .93em;
+}
+
+.school-db-table th,
+.school-db-table td {
+  padding: 13px 15px;
+  border-bottom: 1px solid #e7e7e7;
+  text-align: left;
+  vertical-align: top;
+  line-height: 1.75;
+}
+
+.school-db-table th {
+  width: 25%;
+  background: rgba(0,0,0,.025);
+  font-weight: 700;
+}
+
+.school-db-judgement {
+  margin: 24px 0 34px;
+  padding: 22px 24px;
+  border: 1px solid rgba(73,177,245,.22);
+  border-radius: 11px;
+  background: rgba(73,177,245,.055);
+}
+
+.school-db-judgement-title {
+  margin-bottom: 12px;
+  color: #358cc4;
+  font-size: 1.05em;
+  font-weight: 750;
+}
+
+.school-db-judgement p {
+  line-height: 1.9;
+}
+
+.school-db-warning {
+  margin: 22px 0 32px;
+  padding: 19px 21px;
+  border-left: 4px solid #e4a53c;
+  border-radius: 8px;
+  background: rgba(228,165,60,.08);
+  line-height: 1.9;
+}
+
+.school-db-resource-grid {
+  display: grid;
+  grid-template-columns: repeat(2,1fr);
+  gap: 13px;
+  margin: 22px 0 32px;
+}
+
+.school-db-resource,
+.school-db-resource:visited {
+  display: block;
+  padding: 18px 20px;
+  border: 1px solid #e5e5e5;
+  border-radius: 9px;
+  background: rgba(255,255,255,.84);
+  color: inherit !important;
+  text-decoration: none !important;
+  transition: .2s ease;
+}
+
+.school-db-resource:hover {
+  transform: translateY(-2px);
+  border-color: #49b1f5;
+}
+
+.school-db-resource-label {
+  margin-bottom: 6px;
+  color: #49b1f5;
+  font-size: .77em;
+  font-weight: 700;
+}
+
+.school-db-resource-title {
+  font-weight: 700;
+}
+
+.school-db-updated {
+  margin-top: 30px;
+  padding-top: 16px;
+  border-top: 1px solid #e5e5e5;
+  font-size: .85em;
+  line-height: 1.8;
+  opacity: .62;
+}
+
+/* 保留原有教授详情按钮 */
+.teacher-detail-link,
+.teacher-detail-link:visited {
+  display: inline-block;
+  margin-top: 13px;
+  padding: 7px 11px;
+  border-radius: 7px;
+  background: rgba(73,177,245,.10);
+  color: #358cc4 !important;
+  font-size: .86em;
+  font-weight: 650;
+  text-decoration: none !important;
+  transition: .2s ease;
+}
+
+.teacher-detail-link:hover {
+  background: rgba(73,177,245,.18);
+  transform: translateY(-1px);
+}
+
+@media (max-width: 900px) {
+  .school-db-info-grid {
+    grid-template-columns: repeat(2,1fr);
+  }
+}
+
+@media (max-width: 768px) {
+  .school-db-info-grid,
+  .school-db-fit-grid,
+  .school-db-teacher-grid,
+  .school-db-resource-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .school-db-head {
+    padding: 22px 20px;
+  }
+
+  .school-db-title {
+    font-size: 1.5em;
+  }
+
+  .school-db-table th {
+    width: 34%;
+  }
+}

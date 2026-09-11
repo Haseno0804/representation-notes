@@ -1,5 +1,5 @@
 ---
-title: 东京大学｜表象文化论
+title: 东京大学｜表象文化・漫画研究
 comments: false
 aside: false
 top_img: false
@@ -7,186 +7,195 @@ top_img: false
 
 <link rel="stylesheet" href="/css/school-detail.css">
 
-<div class="school-detail-head">
-<div class="school-detail-kicker">日本表象文化大学院数据库</div>
-<div class="school-detail-name">东京大学</div>
-<div class="school-detail-dept">大学院総合文化研究科｜超域文化科学専攻｜表象文化論</div>
-<div class="school-detail-tags">
-<span class="school-detail-tag">表象文化论</span>
-<span class="school-detail-tag">漫画研究</span>
-<span class="school-detail-tag">电影・影像</span>
-<span class="school-detail-tag">媒介研究</span>
-<span class="school-detail-tag">视觉文化</span>
-<span class="school-detail-tag">性别・酷儿</span>
+<div class="school-db-head">
+<div class="school-db-kicker">SCHOOL DATABASE · 院校数据库</div>
+<div class="school-db-title">东京大学</div>
+<div class="school-db-en">The University of Tokyo</div>
+
+<div class="school-db-path">
+<strong>大学院综合文化研究科</strong><br>
+Graduate School of Arts and Sciences<br><br>
+超域文化科学专攻 → 表象文化论分野
+</div>
+
+<div class="school-db-status-row">
+<span class="school-db-status ok">2027年度募集要项已发布</span>
+<span class="school-db-status ok">教授信息已确认</span>
+<span class="school-db-status">修士 / 博士后期</span>
+<span class="school-db-status">最后核对：2026-09</span>
 </div>
 </div>
 
-## 基本信息
-
-<div class="school-summary-grid">
-<div class="school-summary-card">
-<div class="school-summary-label">2027 募集人数</div>
-<div class="school-summary-value">表象文化论分野 14 名</div>
-</div>
-<div class="school-summary-card">
-<div class="school-summary-label">外国人第一次外国语</div>
-<div class="school-summary-value">日语</div>
-</div>
-<div class="school-summary-card">
-<div class="school-summary-label">研究计划书</div>
-<div class="school-summary-value">日语约 1,200 字</div>
-</div>
-<div class="school-summary-card">
-<div class="school-summary-label">事前联系导师</div>
-<div class="school-summary-value">非必须</div>
-</div>
+<div class="school-db-note">
+本页关注的是东京大学中与<strong>表象文化、漫画、动画及相邻大众文化研究</strong>关系较密切的大学院路径，而不是东京大学所有可能涉及文化研究的研究科。
 </div>
 
-## 这里主要可以研究什么？
+## 快速信息
 
-东京大学表象文化论并不是单纯的“动漫专业”。
-
-它更接近一个以艺术、影像、文本、视觉文化、思想与媒介等对象为中心的跨领域人文学研究环境。
-
-对于本站读者来说，尤其值得关注的方向包括：
-
-- 漫画与视觉文化
-- 电影、日本电影与东亚电影
-- 媒介社会学
-- 影像文化论
-- 当代艺术与美学
-- 表象文化理论
-- 女性主义与酷儿理论
-- 身体与自我表象
-- 文学、艺术与思想之间的跨领域研究
-
-<div class="school-detail-note">
-<strong>需要注意：</strong>
-“我想研究动画 / 漫画 / 游戏”本身并不意味着一定适合这里。真正需要判断的是，你使用什么研究方法、面对什么研究问题，以及目前的教员中是否存在能够指导该问题的人。
+<div class="school-db-info-grid">
+<div class="school-db-info-card">
+<div class="school-db-info-label">研究科</div>
+<div class="school-db-info-value">大学院综合文化研究科</div>
 </div>
 
-## 值得关注的教员
+<div class="school-db-info-card">
+<div class="school-db-info-label">专攻</div>
+<div class="school-db-info-value">超域文化科学专攻</div>
+</div>
 
-<div class="teacher-grid">
-<div class="teacher-card">
-<div class="teacher-name">三輪健太朗</div>
-<div class="teacher-field">漫画论・近代视觉文化史</div>
-<div class="teacher-desc">目前东京大学表象文化论中，与漫画研究最直接相关的教员之一。适合关注漫画表现、视觉形式以及漫画史等问题的研究。</div>
+<div class="school-db-info-card">
+<div class="school-db-info-label">相关分野</div>
+<div class="school-db-info-value">表象文化论</div>
+</div>
+
+<div class="school-db-info-card">
+<div class="school-db-info-label">招生阶段</div>
+<div class="school-db-info-value">修士 / 博士后期</div>
+</div>
+</div>
+
+## 可以关注哪些方向？
+
+<div class="school-db-tags">
+<span class="school-db-tag">表象文化论</span>
+<span class="school-db-tag">漫画研究</span>
+<span class="school-db-tag">视觉文化</span>
+<span class="school-db-tag">媒介研究</span>
+<span class="school-db-tag">动画研究</span>
+<span class="school-db-tag">大众文化</span>
+</div>
+
+<div class="school-db-fit-grid">
+<div class="school-db-fit-card">
+<div class="school-db-fit-title">漫画与漫画表现论</div>
+<div class="school-db-fit-desc">
+尤其适合关注漫画中的格、时间、图像与文字、角色以及漫画表现史等问题。
+</div>
+</div>
+
+<div class="school-db-fit-card">
+<div class="school-db-fit-title">表象文化与相邻大众文化</div>
+<div class="school-db-fit-desc">
+并不限于狭义漫画研究。动画、视觉文化以及更广泛的 Popular Culture 也可能与表象文化论形成交叉。
+</div>
+</div>
+</div>
+
+---
+
+## 相关教授
+
+<div class="school-db-teacher-grid">
+
+<div class="school-db-teacher-card">
+<div class="school-db-teacher-name">三輪健太朗</div>
+<div class="school-db-teacher-role">准教授｜表象文化论・漫画论</div>
+<div class="school-db-teacher-desc">
+主要从理论和文化史角度研究现代漫画的文化史位置与美学意义，同时进行具体作家、作品研究。对于漫画表现论、漫画与其他媒介关系等方向尤其值得关注。
+</div>
+<div class="school-db-tags">
+<span class="school-db-tag">漫画论</span>
+<span class="school-db-tag">表象文化论</span>
+<span class="school-db-tag">视觉文化</span>
+<span class="school-db-tag">媒介</span>
+</div>
 <a class="teacher-detail-link" href="/graduate/professors/miwa/">查看教授详情 →</a>
 </div>
-<div class="teacher-card">
-<div class="teacher-name">マチュー・カペル</div>
-<div class="teacher-field">电影学・日本电影</div>
-<div class="teacher-desc">适合日本电影、影像文化以及电影史、电影理论等相关主题。</div>
-</div>
-<div class="teacher-card">
-<div class="teacher-name">北田暁大</div>
-<div class="teacher-field">媒介社会学</div>
-<div class="teacher-desc">如果研究对象不仅是作品本身，还涉及媒介、传播、社会结构或文化消费，可以重点关注这一方向。</div>
-</div>
-<div class="teacher-card">
-<div class="teacher-name">清水晶子</div>
-<div class="teacher-field">女性主义・酷儿理论</div>
-<div class="teacher-desc">适合性别、身体、自我表象、性少数与视觉文化政治等相关研究问题。</div>
-</div>
-</div>
-
-## 2027 年度修士入试流程
-
-<div class="exam-flow">
-<div class="exam-step">
-<div class="exam-step-number">01</div>
-<div>
-<strong>出愿</strong>
-<p>线上信息登记：2026 年 10 月 29 日～11 月 13 日。出愿材料邮送受理：11 月 6 日～11 月 13 日。</p>
-</div>
-</div>
-<div class="exam-step">
-<div class="exam-step-number">02</div>
-<div>
-<strong>第一次笔试</strong>
-<p>2027 年 1 月 23 日于东京大学驹场举行。外国人出愿者的外国语科目为日语，同时参加表象文化论专业笔试。</p>
-</div>
-</div>
-<div class="exam-step">
-<div class="exam-step-number">03</div>
-<div>
-<strong>第一次合格后提交研究材料</strong>
-<p>2027 年 1 月 29 日～2 月 2 日提交。外国人出愿者需要提交论文、论文摘要以及日语约 1,200 字的研究计划书。</p>
-</div>
-</div>
-<div class="exam-step">
-<div class="exam-step-number">04</div>
-<div>
-<strong>第二次口述考试</strong>
-<p>表象文化论 2027 年安排在 2 月 12 日～17 日之间，对面实施。</p>
-</div>
-</div>
-</div>
-
-## 关于导师联系
-
-表象文化论修士入试与很多日本大学院不同：
-
-**不需要在入学前确定指导教授。**
-
-官方 FAQ 也明确说明：
-
-- 考试前与教员面谈不是必须条件；
-- 有没有提前面谈不会左右入试结果；
-- 如果确实希望提前联系某位教员，能否接受个别联系由教员本人判断；
-- 指导教员原则上在入学后根据研究内容等情况决定。
-
-因此，这里不适合套用“必须先拿教授内诺才能报考”的思路。
-
-## 官方资料与过去问
-
-<div class="school-past-note">
-<strong>过去问状态：</strong>
-目前东京大学官方已公开表象文化论 2026 年度修士入试专业科目，以及专业科目和外国语科目的“出题意图”。建议准备笔试时同时阅读题目与出题意图。
-</div>
-
-<div class="school-resource-grid">
-
-<a class="school-resource-card" href="https://www.c.u-tokyo.ac.jp/graduate/admission/master-doctor/2027/2027-001.html" target="_blank" rel="noopener noreferrer">
-<div class="school-resource-type">OFFICIAL · 入试</div>
-<div class="school-resource-title">2027 年度修士入试官方页面</div>
-<div class="school-resource-desc">募集要项、专攻案内、出愿资料、考试日程等以这里为准。</div>
-<div class="school-resource-arrow">东京大学官网 →</div>
-</a>
-
-<a class="school-resource-card" href="https://www.c.u-tokyo.ac.jp/graduate/admission/master-doctor/2027/exam.html" target="_blank" rel="noopener noreferrer">
-<div class="school-resource-type">OFFICIAL · 过去问</div>
-<div class="school-resource-title">表象文化论修士入试过去问</div>
-<div class="school-resource-desc">查看专业科目过去问，以及专业科目和外国语的出题意图。</div>
-<div class="school-resource-arrow">查看官方过去问 →</div>
-</a>
-
-<a class="school-resource-card" href="https://repre.c.u-tokyo.ac.jp/faq/" target="_blank" rel="noopener noreferrer">
-<div class="school-resource-type">OFFICIAL · FAQ</div>
-<div class="school-resource-title">表象文化论研究室 FAQ</div>
-<div class="school-resource-desc">包括导师联系、事前面谈、入试和外国人研究生等常见问题。</div>
-<div class="school-resource-arrow">查看研究室 FAQ →</div>
-</a>
 
 </div>
+
+---
+
+## 入试与出愿信息
+
+<div class="school-db-table-wrap">
+<table class="school-db-table">
+<tr>
+<th>募集年度</th>
+<td>2027年度（2026年度实施）</td>
+</tr>
+<tr>
+<th>招生阶段</th>
+<td>修士课程 / 博士后期课程</td>
+</tr>
+<tr>
+<th>申请单位</th>
+<td>综合文化研究科 → 超域文化科学专攻 → 表象文化论分野</td>
+</tr>
+<tr>
+<th>募集要项</th>
+<td>2027年度文系专攻募集要项已经公开。具体日程与提交材料必须以当年度官方募集要项为准。</td>
+</tr>
+<tr>
+<th>日本语</th>
+<td>官方提供日本语能力证明相关指定材料。具体适用对象与要求请确认当年度募集要项。</td>
+</tr>
+<tr>
+<th>海外出愿</th>
+<td>官方另设日本国外申请者相关说明，海外学历申请者需要特别确认材料寄送与出愿流程。</td>
+</tr>
+<tr>
+<th>过去入试</th>
+<td>学校官方公开过去数年的入学考试结果。过去问及具体专业考试资料需要结合表象文化论分野进一步确认。</td>
+</tr>
+</table>
+</div>
+
+<div class="school-db-warning">
+<strong>注意：</strong>
+招生方式、提交材料、考试时间和语言要求存在年度变化。本站将“学校长期结构”和“年度入试信息”分开整理；实际出愿时必须重新确认当年度募集要项。
+</div>
+
+---
 
 ## 本站判断
 
-<div class="school-editorial">
-<strong>比较适合：</strong><br>
-重视作品分析、视觉文化、媒介理论、电影、漫画、美学、思想、性别与表象等方向，并且已经具备一定理论阅读和学术写作能力的人。<br><br>
+<div class="school-db-judgement">
+<div class="school-db-judgement-title">本站判断｜什么样的题目比较值得关注这里？</div>
 
-<strong>尤其值得注意：</strong><br>
-东京大学表象文化论并不是一个以“二次元兴趣”本身为中心的项目。即使研究漫画或动画，也需要把兴趣进一步转化成明确的研究对象、问题意识和理论方法。<br><br>
+<p>
+如果你的问题真正落在<strong>漫画表现、漫画媒介、视觉文化以及表象文化论</strong>上，东京大学这一方向值得认真考虑。
+</p>
 
-<strong>准备难点：</strong><br>
-除了研究计划书之外，还需要面对专业笔试、日语考试以及第一次合格后的研究论文材料，因此准备强度明显高于只进行书类审查和面试的项目。
+<p>
+尤其需要注意的是：申请时不要只因为“我喜欢漫画 / 动画”就判断匹配。更重要的是你的研究问题是否能够与具体教授的问题意识、方法和研究环境发生关系。
+</p>
+
+<p>
+三輪健太朗目前的核心专长明确是漫画论，但其教学也涉及动画等相邻领域和更广泛的 Popular Culture。因此，“漫画研究”是非常清楚的匹配点，而其他宅文化对象则需要进一步看研究问题本身。
+</p>
 </div>
 
-<div class="school-update">
-数据最后核验：2026-09-08<br>
-信息依据：东京大学大学院総合文化研究科 2027 年度修士课程募集资料、表象文化论研究室教员资料与 FAQ。实际出愿请再次确认当年度官方资料。
+---
+
+## 站内相关资源
+
+<div class="school-db-resource-grid">
+
+<a class="school-db-resource" href="/graduate/professors/miwa/">
+<div class="school-db-resource-label">PROFESSOR</div>
+<div class="school-db-resource-title">三輪健太朗｜教授详情</div>
+</a>
+
+<a class="school-db-resource" href="/graduate/past-exams/">
+<div class="school-db-resource-label">PAST EXAMS</div>
+<div class="school-db-resource-title">过去问与笔试资料</div>
+</a>
+
+<a class="school-db-resource" href="/graduate/application/">
+<div class="school-db-resource-label">APPLICATION</div>
+<div class="school-db-resource-title">出愿指南</div>
+</a>
+
+<a class="school-db-resource" href="/graduate/research-plan/">
+<div class="school-db-resource-label">RESEARCH PLAN</div>
+<div class="school-db-resource-title">研究计划书指南</div>
+</a>
+
 </div>
 
-<a class="school-back" href="/graduate/schools/">← 返回院校数据库</a>
+<div class="school-db-updated">
+信息状态：Beta / 数据库 V2 模板<br>
+最后核对：2026-09-11<br>
+募集要项、教授所属及考试制度可能发生变化，请以申请年度官方信息为准。
+</div>

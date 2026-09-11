@@ -5,317 +5,616 @@ aside: false
 top_img: false
 ---
 
-<style>
-.school-db-intro {
-  margin-bottom: 30px;
-}
+<link rel="stylesheet" href="/css/school-index.css">
+<script defer src="/js/school-filter.js"></script>
 
-.school-db-lead {
-  font-size: 1.08em;
-  line-height: 1.95;
-}
-
-.school-db-notice {
-  margin: 24px 0;
-  padding: 17px 19px;
-  border-left: 4px solid #49b1f5;
-  border-radius: 8px;
-  background: rgba(73, 177, 245, 0.08);
-  line-height: 1.9;
-}
-
-.school-db-tags {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 10px;
-  margin: 22px 0 34px;
-}
-
-.school-db-tag {
-  padding: 7px 13px;
-  border: 1px solid #dcdcdc;
-  border-radius: 999px;
-  background: rgba(255,255,255,.78);
-  font-size: .9em;
-}
-
-.school-db-section-title {
-  margin-top: 34px;
-  margin-bottom: 20px;
-}
-
-.school-list {
-  display: flex;
-  flex-direction: column;
-  gap: 20px;
-  margin: 24px 0 36px;
-}
-
-.school-card {
-  padding: 24px 26px;
-  border: 1px solid #e5e5e5;
-  border-radius: 12px;
-  background: rgba(255,255,255,.86);
-}
-
-.school-card-header {
-  margin-bottom: 16px;
-}
-
-.school-card-name {
-  margin-bottom: 5px;
-  font-size: 1.3em;
-  font-weight: 700;
-}
-
-.school-card-dept {
-  font-size: .95em;
-  opacity: .68;
-}
-
-.school-card-grid {
-  display: grid;
-  grid-template-columns: 140px 1fr;
-  gap: 9px 18px;
-  margin: 16px 0;
-}
-
-.school-card-label {
-  font-weight: 700;
-  color: #555;
-}
-
-.school-card-value {
-  line-height: 1.75;
-}
-
-.school-card-tags {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 8px;
-  margin: 12px 0 16px;
-}
-
-.school-card-tag {
-  padding: 5px 10px;
-  border-radius: 999px;
-  background: rgba(73,177,245,.10);
-  font-size: .84em;
-  color: #358cc4;
-}
-
-.school-card-footer {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  gap: 14px;
-  margin-top: 18px;
-  padding-top: 14px;
-  border-top: 1px solid #eeeeee;
-  font-size: .88em;
-}
-
-.school-card-updated {
-  opacity: .62;
-}
-
-.school-detail-button,
-.school-detail-button:visited {
-  flex-shrink: 0;
-  padding: 7px 12px;
-  border-radius: 7px;
-  background: rgba(73,177,245,.10);
-  color: #358cc4 !important;
-  font-weight: 650;
-  text-decoration: none !important;
-}
-
-.school-detail-button:hover {
-  background: rgba(73,177,245,.18);
-}
-
-.school-db-guide {
-  margin: 28px 0;
-  padding: 22px 24px;
-  border-radius: 10px;
-  background: rgba(0,0,0,.035);
-  line-height: 1.9;
-}
-
-.school-db-guide h3 {
-  margin-top: 0;
-}
-
-@media (max-width: 768px) {
-  .school-card-grid {
-    grid-template-columns: 1fr;
-    gap: 4px;
-  }
-
-  .school-card-label {
-    margin-top: 9px;
-  }
-}
-</style>
-
-<div class="school-db-intro">
-
-<p class="school-db-lead">
-这里整理可以进行动画、漫画、游戏、御宅文化、媒介文化及相关表象文化研究的日本大学院。
-</p>
-
-<p class="school-db-lead">
-这个数据库主要面向希望自己调查学校、教授和募集要项的 DIY 考生。
-它不是“学校排名”，而是帮助你判断：
-<strong>哪些研究科可能与你的研究方向相匹配。</strong>
-</p>
-
+<div class="school-index-hero">
+<div class="school-index-kicker">GRADUATE SCHOOL DATABASE</div>
+<div class="school-index-title">日本表象文化大学院院校数据库</div>
+<div class="school-index-lead">
+面向希望研究动画、漫画、游戏、御宅文化、媒介、视觉文化、角色、身体与相关领域的 DIY 考生。这里优先整理<strong>研究科、专攻、研究方向、教员与入试信息</strong>，而不是按照大学综合排名排列学校。
 </div>
-
-<div class="school-db-notice">
-<strong>重要：</strong>
-大学院的募集要项、考试科目、语言要求、教授招生情况等信息可能每年变化。
-本站整理的信息仅作为检索入口，正式出愿时务必以学校当年度官网与募集要项为准。
-</div>
-
----
-
-## 可以从哪些方向寻找？
-
-<div class="school-db-tags">
-  <span class="school-db-tag">动画研究</span>
-  <span class="school-db-tag">漫画研究</span>
-  <span class="school-db-tag">游戏研究</span>
-  <span class="school-db-tag">御宅文化</span>
-  <span class="school-db-tag">媒介研究</span>
-  <span class="school-db-tag">亚文化研究</span>
-  <span class="school-db-tag">视觉文化</span>
-  <span class="school-db-tag">角色研究</span>
-  <span class="school-db-tag">粉丝研究</span>
-  <span class="school-db-tag">性别与表象</span>
-</div>
-
-<div class="school-db-guide">
-
-<h3>怎么看这个数据库？</h3>
-
-<p>
-建议不要只看“大学名字”，而是同时观察：
-</p>
-
-<ul>
-  <li>具体属于哪个研究科 / 专攻</li>
-  <li>有哪些与你方向相关的教授</li>
-  <li>教授究竟研究什么</li>
-  <li>考试是否需要研究计划书</li>
-  <li>有没有专业课、外语、小论文或面试</li>
-  <li>语言要求是什么</li>
-  <li>是否需要事前联系教授</li>
-</ul>
-
-<p>
-真正的择校判断通常是：
-<strong>研究主题 + 教授匹配 + 研究科环境 + 考试条件</strong>
-一起考虑。
-</p>
-
-</div>
-
----
-
-<h2 class="school-db-section-title">院校列表</h2>
-
-<div class="school-list">
-<div class="school-card">
-<div class="school-card-header">
-<div class="school-card-name">东京大学</div>
-<div class="school-card-dept">大学院総合文化研究科｜超域文化科学専攻｜表象文化論</div>
-</div>
-<div class="school-card-tags">
-<span class="school-card-tag">表象文化论</span>
-<span class="school-card-tag">漫画研究</span>
-<span class="school-card-tag">电影・影像</span>
-<span class="school-card-tag">媒介研究</span>
-<span class="school-card-tag">性别・酷儿</span>
-</div>
-<div class="school-card-grid">
-<div class="school-card-label">研究方向</div>
-<div class="school-card-value">漫画、电影与影像、视觉文化、媒介社会学、当代艺术、美学、性别与酷儿理论等。</div>
-<div class="school-card-label">相关教员例</div>
-<div class="school-card-value">三輪健太朗（漫画论・近代视觉文化史）、マチュー・カペル（电影学・日本电影）、北田暁大（媒介社会学）、清水晶子（女性主义・酷儿理论）等。</div>
-<div class="school-card-label">研究计划书</div>
-<div class="school-card-value">2027年度入学外国人一般出愿者：第一次笔试合格后提交。日语 A4 约 1,200 字，并同时提交论文及论文摘要。</div>
-<div class="school-card-label">考试方式</div>
-<div class="school-card-value">外国人出愿者第一次考试：日语＋表象文化论专业笔试。第一次合格后进行提交材料审查与第二次口述考试。</div>
-<div class="school-card-label">日语要求</div>
-<div class="school-card-value">没有以 JLPT N1 分数作为统一门槛；外国人出愿者原则上需提交学校规定格式的日语能力证明，并参加日语笔试。日本大学毕业或预计毕业者免交该证明。</div>
-<div class="school-card-label">事前联系</div>
-<div class="school-card-value">不要求事前面谈。官方明确说明，考前是否面谈不会影响考试结果；是否可以提前联系具体教员由各教员判断。</div>
-<div class="school-card-label">招生人数</div>
-<div class="school-card-value">2027年度入学：表象文化论分野 14 名。</div>
-<div class="school-card-label">2027入学出愿时期</div>
-<div class="school-card-value">线上信息登记：2026年10月29日～11月13日；出愿材料邮送受理：2026年11月6日～11月13日。</div>
-</div>
-<div class="school-card-footer">
-<span class="school-card-updated">数据最后核验：2026-09-08</span>
-<a class="school-detail-button" href="/graduate/schools/utokyo/">查看详细信息 →</a>
+<div class="school-index-status">
+当前版本：Database 1.0 Beta<br>
+最近核对：2026-09-11<br>
+募集要项和研究指导可能按年度变化，正式出愿时请始终以大学官方最新资料为准。
 </div>
 </div>
-<div class="school-card">
-<div class="school-card-header">
-<div class="school-card-name">早稻田大学</div>
-<div class="school-card-dept">大学院文学研究科｜人文科学専攻｜表象・メディア論コース</div>
+
+<div class="school-index-stats">
+<div class="school-index-stat">
+<div class="school-index-stat-number">8</div>
+<div class="school-index-stat-label">当前收录大学</div>
 </div>
-<div class="school-card-tags">
-<span class="school-card-tag">表象文化论</span>
-<span class="school-card-tag">御宅・流行文化</span>
-<span class="school-card-tag">动画・漫画</span>
-<span class="school-card-tag">媒介研究</span>
-<span class="school-card-tag">性别・视觉文化</span>
+<div class="school-index-stat">
+<div class="school-index-stat-number">8</div>
+<div class="school-index-stat-label">重点研究路径</div>
 </div>
-<div class="school-card-grid">
-<div class="school-card-label">研究方向</div>
-<div class="school-card-value">表象文化、视觉文化、流行文化、动画与漫画、影视、媒介艺术、数字文化、身体表象、性别与酷儿研究等。</div>
-<div class="school-card-label">相关教员例</div>
-<div class="school-card-value">石岡良治（表象文化论・视觉文化论・流行文化研究）、細馬宏通（电影・电视剧・漫画・动画及视听表象研究）、溝口彰子（性别论・视觉文化研究・酷儿理论）等。</div>
-<div class="school-card-label">研究计划书</div>
-<div class="school-card-value">2027年度入学修士一般入试：日语 4,000～5,000 字，出愿时以 PDF 上传。</div>
-<div class="school-card-label">考试方式</div>
-<div class="school-card-value">第一次：书类审查＋一般外国语＋表象・メディア论专业笔试（含资料解读）；第一次合格者进入第二次口述考试。</div>
-<div class="school-card-label">中国学生笔试</div>
-<div class="school-card-value">对于主要在日本国外完成中等教育的 B 区分考生，一般外国语考试为日语，并参加表象・メディア论专业科目考试。</div>
-<div class="school-card-label">日语要求</div>
-<div class="school-card-value">符合海外大学等相应出愿资格者原则上需 JLPT N1（旧1级）合格，或 EJU 日本语科目除记述外合计 260 分以上；部分经历者可免交。</div>
-<div class="school-card-label">指导教员</div>
-<div class="school-card-value">表象・メディア论出愿时需填写希望指导教员，但最终指导教员不保证与志愿完全一致。</div>
-<div class="school-card-label">2027入学出愿时期</div>
-<div class="school-card-value">海外大学毕业／预计毕业者：2026年7月1日～7月13日；日本大学毕业／预计毕业者：7月14日～7月27日。2027年度入学一般入试现已截止出愿。</div>
+<div class="school-index-stat">
+<div class="school-index-stat-number">22</div>
+<div class="school-index-stat-label">已整理重点相关教员</div>
 </div>
-<div class="school-card-footer">
-<span class="school-card-updated">数据最后核验：2026-09-08</span>
-<a class="school-detail-button" href="/graduate/schools/waseda/">查看详细信息 →</a>
-</div>
+<div class="school-index-stat">
+<div class="school-index-stat-number">2027</div>
+<div class="school-index-stat-label">当前主要募集年度</div>
 </div>
 </div>
 
 ---
 
-## 数据库目前处于什么阶段？
+## 按研究方向寻找
 
-目前是院校数据库的第一版。
+<div class="school-filter-section">
+<div class="school-filter-note">
+点击方向后，只显示目前数据库中与该方向具有较明确关联的院校。这里的标签用于导航，不代表该大学对该方向作出官方专业分类。
+</div>
+<div class="school-filter-bar">
+<button class="school-filter-button active" data-filter="all">全部</button>
+<button class="school-filter-button" data-filter="anime">动画研究</button>
+<button class="school-filter-button" data-filter="manga">漫画研究</button>
+<button class="school-filter-button" data-filter="game">游戏研究</button>
+<button class="school-filter-button" data-filter="otaku">宅文化</button>
+<button class="school-filter-button" data-filter="media">媒介研究</button>
+<button class="school-filter-button" data-filter="visual">视觉文化</button>
+<button class="school-filter-button" data-filter="body">身体 / 表演</button>
+<button class="school-filter-button" data-filter="gender">性别 / Queer</button>
+<button class="school-filter-button" data-filter="theory">理论 / 思想</button>
+</div>
+</div>
 
-接下来会逐步补充：
+<div class="school-orientation-guide">
+<div class="school-orientation-guide-title">研究取向怎么看？</div>
+<div class="school-orientation-guide-desc">
+同样研究动画、漫画、游戏或御宅文化，不同大学院使用的方法可能完全不同。下面的标签用于快速表示各项目目前较突出的研究取向，并不代表官方学科分类。
+</div>
+<div class="school-orientation-list">
+<span class="school-orientation theory">理论 / 批评</span>
+<span class="school-orientation analysis">作品分析</span>
+<span class="school-orientation history">历史 / 档案</span>
+<span class="school-orientation social">社会 / 产业</span>
+<span class="school-orientation practice">创作实践</span>
+<span class="school-orientation digital">技术 / Digital</span>
+</div>
+</div>
 
-- 实际院校
-- 研究科与专攻
-- 相关教授
-- 研究关键词
-- 募集要项
-- 研究计划书要求
-- 笔试内容
-- 语言要求
-- 过去问
-- 出愿时间
-- 官方链接
+---
 
-随着数据量增加，之后再考虑加入筛选、搜索和更详细的院校页面。
+## 院校列表
+
+<div class="school-index-grid">
+
+<div class="school-index-card"
+     data-tags="anime manga media visual theory"
+     data-orientations="theory analysis">
+<div class="school-index-card-head">
+<div>
+<div class="school-index-card-name">东京大学</div>
+<div class="school-index-card-en">The University of Tokyo</div>
+</div>
+<div class="school-index-card-status">2027 募集已发布</div>
+</div>
+<div class="school-index-path">
+<strong>大学院综合文化研究科</strong><br>
+超域文化科学专攻 → 表象文化论
+</div>
+<div class="school-index-meta">
+<div class="school-index-meta-item">
+<div class="school-index-meta-label">招生阶段</div>
+<div class="school-index-meta-value">修士 / 博士后期</div>
+</div>
+<div class="school-index-meta-item">
+<div class="school-index-meta-label">重点方向</div>
+<div class="school-index-meta-value">漫画论・表象文化・视觉文化</div>
+</div>
+<div class="school-index-meta-item">
+<div class="school-index-meta-label">数据状态</div>
+<div class="school-index-meta-value">2027年度已确认</div>
+</div>
+</div>
+<div class="school-index-tags">
+<span class="school-index-tag">漫画研究</span>
+<span class="school-index-tag">表象文化论</span>
+<span class="school-index-tag">视觉文化</span>
+<span class="school-index-tag">媒介研究</span>
+<span class="school-index-tag">动画相邻研究</span>
+</div>
+
+<div class="school-orientation-block">
+<div class="school-orientation-label">研究取向</div>
+<div class="school-orientation-list">
+<span class="school-orientation theory">理论 / 批评</span>
+<span class="school-orientation analysis">作品分析</span>
+</div>
+</div>
+
+<div class="school-index-teachers">
+<div class="school-index-teachers-label">重点相关教员</div>
+<div class="school-index-teacher-list">
+<strong>三輪健太朗</strong>｜表象文化论・漫画论
+</div>
+</div>
+<div class="school-index-actions">
+<a class="school-index-action primary" href="/graduate/schools/utokyo/">查看院校详情 →</a>
+<a class="school-index-action" href="/graduate/professors/miwa/">三輪健太朗 →</a>
+<a class="school-index-action" href="https://www.c.u-tokyo.ac.jp/graduate/admission/master-doctor/2027/2027-001.html" target="_blank" rel="noopener noreferrer">官方募集页面 ↗</a>
+</div>
+</div>
+
+<div class="school-index-card"
+     data-tags="anime manga otaku media visual body gender"
+     data-orientations="theory analysis social">
+<div class="school-index-card-head">
+<div>
+<div class="school-index-card-name">早稻田大学</div>
+<div class="school-index-card-en">Waseda University</div>
+</div>
+<div class="school-index-card-status">2027 募集已发布</div>
+</div>
+<div class="school-index-path">
+<strong>大学院文学研究科</strong><br>
+人文科学专攻 → 表象・メディア论 Course
+</div>
+<div class="school-index-meta">
+<div class="school-index-meta-item">
+<div class="school-index-meta-label">招生阶段</div>
+<div class="school-index-meta-value">修士 / 博士后期</div>
+</div>
+<div class="school-index-meta-item">
+<div class="school-index-meta-label">重点方向</div>
+<div class="school-index-meta-value">Media・Body・Image・Popular Culture</div>
+</div>
+<div class="school-index-meta-item">
+<div class="school-index-meta-label">数据状态</div>
+<div class="school-index-meta-value">2027年度已确认</div>
+</div>
+</div>
+<div class="school-index-tags">
+<span class="school-index-tag">动画研究</span>
+<span class="school-index-tag">漫画研究</span>
+<span class="school-index-tag">宅文化</span>
+<span class="school-index-tag">视觉文化</span>
+<span class="school-index-tag">声音 / 身体</span>
+<span class="school-index-tag">Gender / Queer</span>
+</div>
+
+<div class="school-orientation-block">
+<div class="school-orientation-label">研究取向</div>
+<div class="school-orientation-list">
+<span class="school-orientation theory">理论 / 批评</span>
+<span class="school-orientation analysis">作品分析</span>
+<span class="school-orientation social">社会 / 产业</span>
+</div>
+</div>
+
+<div class="school-index-teachers">
+<div class="school-index-teachers-label">重点相关教员</div>
+<div class="school-index-teacher-list">
+<strong>石岡良治</strong>｜表象文化・视觉文化・Popular Culture<br>
+<strong>細馬宏通</strong>｜视听表象・声音与身体<br>
+<strong>菊地浩平</strong>｜人形文化・表象文化<br>
+<strong>溝口彰子</strong>｜Gender・Queer・视觉文化
+</div>
+</div>
+<div class="school-index-actions">
+<a class="school-index-action primary" href="/graduate/schools/waseda/">查看院校详情 →</a>
+<a class="school-index-action" href="/graduate/professors/ishioka/">石岡良治 →</a>
+<a class="school-index-action" href="https://www.waseda.jp/flas/glas/assets/uploads/2026/06/34_2027_4_GLAS_Master-program_Application-Guide_Ippan.pdf" target="_blank" rel="noopener noreferrer">2027募集要项 ↗</a>
+</div>
+</div>
+<div class="school-index-card"
+     data-tags="anime manga otaku media visual gender"
+     data-orientations="analysis practice">
+<div class="school-index-card-head">
+<div>
+<div class="school-index-card-name">京都精华大学</div>
+<div class="school-index-card-en">Kyoto Seika University</div>
+</div>
+<div class="school-index-card-status">2027 招生已发布</div>
+</div>
+
+<div class="school-index-path">
+<strong>大学院マンガ研究科</strong><br>
+博士前期课程 / 博士后期课程
+</div>
+
+<div class="school-index-meta">
+<div class="school-index-meta-item">
+<div class="school-index-meta-label">招生阶段</div>
+<div class="school-index-meta-value">博士前期 / 博士后期</div>
+</div>
+
+<div class="school-index-meta-item">
+<div class="school-index-meta-label">重点方向</div>
+<div class="school-index-meta-value">漫画・动画・角色・Media Mix</div>
+</div>
+
+<div class="school-index-meta-item">
+<div class="school-index-meta-label">数据状态</div>
+<div class="school-index-meta-value">2027年度已确认</div>
+</div>
+</div>
+
+<div class="school-index-tags">
+<span class="school-index-tag">漫画研究</span>
+<span class="school-index-tag">动画研究</span>
+<span class="school-index-tag">御宅文化</span>
+<span class="school-index-tag">角色研究</span>
+<span class="school-index-tag">Media Mix</span>
+<span class="school-index-tag">Gender</span>
+</div>
+
+<div class="school-orientation-block">
+<div class="school-orientation-label">研究取向</div>
+<div class="school-orientation-list">
+<span class="school-orientation analysis">作品分析</span>
+<span class="school-orientation practice">创作实践</span>
+</div>
+</div>
+
+<div class="school-index-teachers">
+<div class="school-index-teachers-label">重点相关教员</div>
+<div class="school-index-teacher-list">
+<strong>具 本媛</strong>｜漫画・Story Manga・表现论<br>
+<strong>辻田 幸広</strong>｜动画<br>
+<strong>堀 あきこ</strong>｜Gender・Sexuality・Media Culture<br>
+<strong>松下 哲也</strong>｜角色表现论・插画史・美术史
+</div>
+</div>
+
+<div class="school-index-actions">
+<a class="school-index-action primary" href="/graduate/schools/kyoto-seika/">查看院校详情 →</a>
+</div>
+</div>
+</div>
+<div class="school-index-card"
+     data-tags="game media visual theory"
+     data-orientations="theory digital">
+<div class="school-index-card-head">
+<div>
+<div class="school-index-card-name">立命馆大学</div>
+<div class="school-index-card-en">Ritsumeikan University</div>
+</div>
+<div class="school-index-card-status">2027 入试已发布</div>
+</div>
+
+<div class="school-index-path">
+<strong>大学院先端综合学术研究科</strong><br>
+先端综合学术专攻 → 表象领域
+</div>
+
+<div class="school-index-meta">
+<div class="school-index-meta-item">
+<div class="school-index-meta-label">课程结构</div>
+<div class="school-index-meta-value">5年一贯制博士课程</div>
+</div>
+<div class="school-index-meta-item">
+<div class="school-index-meta-label">重点方向</div>
+<div class="school-index-meta-value">哲学・表象文化・Game Studies</div>
+</div>
+<div class="school-index-meta-item">
+<div class="school-index-meta-label">数据状态</div>
+<div class="school-index-meta-value">2027年度已确认</div>
+</div>
+</div>
+
+<div class="school-index-tags">
+<span class="school-index-tag">表象文化论</span>
+<span class="school-index-tag">法国现代思想</span>
+<span class="school-index-tag">视觉文化</span>
+<span class="school-index-tag">Game Studies</span>
+<span class="school-index-tag">Digital Culture</span>
+</div>
+
+<div class="school-orientation-block">
+<div class="school-orientation-label">研究取向</div>
+<div class="school-orientation-list">
+<span class="school-orientation theory">理论 / 批评</span>
+<span class="school-orientation digital">技术 / Digital</span>
+</div>
+</div>
+
+<div class="school-index-teachers">
+<div class="school-index-teachers-label">重点相关教员</div>
+<div class="school-index-teacher-list">
+<strong>千葉 雅也</strong>｜哲学・表象文化论・文学<br>
+<strong>竹中 悠美</strong>｜艺术学・美术史・视觉文化论<br>
+<strong>Martin Roth</strong>｜Games & Play・Digital Culture
+</div>
+</div>
+
+<div class="school-index-actions">
+<a class="school-index-action primary" href="/graduate/schools/ritsumeikan/">查看院校详情 →</a>
+</div>
+</div>
+
+<div class="school-index-card"
+     data-tags="anime manga game otaku media visual gender"
+     data-orientations="history analysis social">
+<div class="school-index-card-head">
+<div>
+<div class="school-index-card-name">明治大学</div>
+<div class="school-index-card-en">Meiji University</div>
+</div>
+<div class="school-index-card-status">2027 募集已发布</div>
+</div>
+
+<div class="school-index-path">
+<strong>大学院国际日本学研究科</strong><br>
+国际日本学专攻 → Pop Culture研究领域
+</div>
+
+<div class="school-index-meta">
+<div class="school-index-meta-item">
+<div class="school-index-meta-label">招生阶段</div>
+<div class="school-index-meta-value">博士前期 / 博士后期</div>
+</div>
+<div class="school-index-meta-item">
+<div class="school-index-meta-label">重点方向</div>
+<div class="school-index-meta-value">漫画・动画・游戏・御宅文化史</div>
+</div>
+<div class="school-index-meta-item">
+<div class="school-index-meta-label">数据状态</div>
+<div class="school-index-meta-value">2027年度已确认</div>
+</div>
+</div>
+
+<div class="school-index-tags">
+<span class="school-index-tag">漫画研究</span>
+<span class="school-index-tag">动画研究</span>
+<span class="school-index-tag">游戏研究</span>
+<span class="school-index-tag">御宅文化</span>
+<span class="school-index-tag">Gender</span>
+<span class="school-index-tag">Archive</span>
+<span class="school-index-tag">文化史</span>
+</div>
+
+<div class="school-orientation-block">
+<div class="school-orientation-label">研究取向</div>
+<div class="school-orientation-list">
+<span class="school-orientation history">历史 / 档案</span>
+<span class="school-orientation analysis">作品分析</span>
+<span class="school-orientation social">社会 / 产业</span>
+</div>
+</div>
+
+<div class="school-index-teachers">
+<div class="school-index-teachers-label">重点相关教员</div>
+<div class="school-index-teacher-list">
+<strong>藤本 由香里</strong>｜少女漫画・Gender・漫画国际比较<br>
+<strong>宮本 大人</strong>｜漫画史<br>
+<strong>森川 嘉一郎</strong>｜御宅文化史・Archive・都市空间
+</div>
+</div>
+
+<div class="school-index-actions">
+<a class="school-index-action primary" href="/graduate/schools/meiji/">查看院校详情 →</a>
+</div>
+</div>
+
+<div class="school-index-card"
+     data-tags="anime manga otaku media visual theory"
+     data-orientations="theory analysis history">
+
+<div class="school-index-card-head">
+<div>
+<div class="school-index-card-name">大阪大学</div>
+<div class="school-index-card-en">The University of Osaka</div>
+</div>
+<div class="school-index-card-status">2027 募集已发布</div>
+</div>
+
+<div class="school-index-path">
+<strong>大学院人文学研究科</strong><br>
+言語文化学専攻 → 分野 I → 表象文化論講座
+</div>
+
+<div class="school-index-meta">
+
+<div class="school-index-meta-item">
+<div class="school-index-meta-label">招生阶段</div>
+<div class="school-index-meta-value">博士前期 / 博士后期</div>
+</div>
+
+<div class="school-index-meta-item">
+<div class="school-index-meta-label">重点方向</div>
+<div class="school-index-meta-value">表象文化・Media・Popular Culture</div>
+</div>
+
+<div class="school-index-meta-item">
+<div class="school-index-meta-label">数据状态</div>
+<div class="school-index-meta-value">2027年度已确认</div>
+</div>
+
+</div>
+
+<div class="school-index-tags">
+<span class="school-index-tag">表象文化论</span>
+<span class="school-index-tag">媒介文化</span>
+<span class="school-index-tag">大众文化</span>
+<span class="school-index-tag">动画研究</span>
+<span class="school-index-tag">漫画研究</span>
+<span class="school-index-tag">比较文化</span>
+</div>
+
+<div class="school-orientation-block">
+<div class="school-orientation-label">研究取向</div>
+<div class="school-orientation-list">
+<span class="school-orientation theory">理论 / 批评</span>
+<span class="school-orientation analysis">作品分析</span>
+<span class="school-orientation history">历史 / 文化语境</span>
+</div>
+</div>
+
+<div class="school-index-teachers">
+<div class="school-index-teachers-label">方法上值得关注的表象文化论教员</div>
+<div class="school-index-teacher-list">
+<strong>木原善彦</strong>｜现代文学・文体论<br>
+<strong>林千宏</strong>｜视觉・图像・欧洲文学<br>
+<strong>佐髙春音</strong>｜物语论・翻译・Adaptation<br>
+<strong>渡辺貴規子</strong>｜少女文化・Gender・比较文学
+</div>
+</div>
+
+<div class="school-index-actions">
+<a class="school-index-action primary" href="/graduate/schools/osaka/">查看院校详情 →</a>
+<a class="school-index-action" href="https://lc.hmt.osaka-u.ac.jp/admissions/guide.html" target="_blank" rel="noopener noreferrer">官方入试页面 ↗</a>
+</div>
+
+</div>
+
+<div class="school-index-card"
+     data-tags="anime manga game otaku media body gender"
+     data-orientations="social analysis">
+
+<div class="school-index-card-head">
+<div>
+<div class="school-index-card-name">横滨国立大学</div>
+<div class="school-index-card-en">Yokohama National University</div>
+</div>
+<div class="school-index-card-status">2027 夏期已确认</div>
+</div>
+
+<div class="school-index-path">
+<strong>大学院都市イノベーション学府</strong><br>
+建築都市文化専攻 → 建築都市文化コース → 都市文化系（Y-GSC论文Course）
+</div>
+
+<div class="school-index-meta">
+
+<div class="school-index-meta-item">
+<div class="school-index-meta-label">招生阶段</div>
+<div class="school-index-meta-value">博士前期 / 博士后期</div>
+</div>
+
+<div class="school-index-meta-item">
+<div class="school-index-meta-label">核心方向</div>
+<div class="school-index-meta-value">2.5D・Fan / Audience・Gender</div>
+</div>
+
+<div class="school-index-meta-item">
+<div class="school-index-meta-label">核心教授</div>
+<div class="school-index-meta-value">須川亜紀子</div>
+</div>
+
+</div>
+
+<div class="school-index-tags">
+<span class="school-index-tag">2.5次元</span>
+<span class="school-index-tag">动画 / 漫画 / 游戏</span>
+<span class="school-index-tag">Fan Studies</span>
+<span class="school-index-tag">Audience</span>
+<span class="school-index-tag">Gender</span>
+<span class="school-index-tag">Cosplay</span>
+</div>
+
+<div class="school-orientation-block">
+<div class="school-orientation-label">研究取向</div>
+<div class="school-orientation-list">
+<span class="school-orientation social">社会 / 文化实践</span>
+<span class="school-orientation analysis">作品与媒介分析</span>
+</div>
+</div>
+
+<div class="school-index-teachers">
+<div class="school-index-teachers-label">核心相关教员</div>
+<div class="school-index-teacher-list">
+<strong>須川亜紀子</strong>｜2.5次元文化・Audience / Fan Studies・Gender
+</div>
+</div>
+
+<div class="school-index-actions">
+<a class="school-index-action primary" href="/graduate/schools/ynu/">查看院校详情 →</a>
+<a class="school-index-action" href="https://er-web.ynu.ac.jp/html/SGAWA_Akiko/ja.html" target="_blank" rel="noopener noreferrer">須川亜紀子 ↗</a>
+</div>
+
+</div>
+
+<div class="school-index-card"
+     data-tags="anime manga game otaku media visual theory"
+     data-orientations="history analysis theory">
+
+<div class="school-index-card-head">
+<div>
+<div class="school-index-card-name">东北大学</div>
+<div class="school-index-card-en">Tohoku University</div>
+</div>
+<div class="school-index-card-status">2027 募集已发布</div>
+</div>
+
+<div class="school-index-path">
+<strong>大学院文学研究科</strong><br>
+日本学专攻 → 日本文化学讲座 → 现代日本学
+</div>
+
+<div class="school-index-meta">
+
+<div class="school-index-meta-item">
+<div class="school-index-meta-label">招生阶段</div>
+<div class="school-index-meta-value">博士前期 / 博士后期</div>
+</div>
+
+<div class="school-index-meta-item">
+<div class="school-index-meta-label">重点方向</div>
+<div class="school-index-meta-value">现代日本・表象・Media・Adaptation</div>
+</div>
+
+<div class="school-index-meta-item">
+<div class="school-index-meta-label">重点相关教员</div>
+<div class="school-index-meta-value">茂木謙之介 / 赤井紀美</div>
+</div>
+
+</div>
+
+<div class="school-index-tags">
+<span class="school-index-tag">表象文化</span>
+<span class="school-index-tag">Media史</span>
+<span class="school-index-tag">文化史</span>
+<span class="school-index-tag">Adaptation</span>
+<span class="school-index-tag">Media Mix</span>
+<span class="school-index-tag">怪异 / 怪谈</span>
+</div>
+
+<div class="school-orientation-block">
+<div class="school-orientation-label">研究取向</div>
+<div class="school-orientation-list">
+<span class="school-orientation history">历史 / 文化史</span>
+<span class="school-orientation analysis">作品分析</span>
+<span class="school-orientation theory">表象 / Media</span>
+</div>
+</div>
+
+<div class="school-index-teachers">
+<div class="school-index-teachers-label">本站重点相关教员</div>
+<div class="school-index-teacher-list">
+<strong>茂木謙之介</strong>｜表象文化论・日本近代文化史・Media史<br>
+<strong>赤井紀美</strong>｜文学・演剧・Adaptation / Media Mix
+</div>
+</div>
+
+<div class="school-index-actions">
+<a class="school-index-action primary" href="/graduate/schools/tohoku/">查看院校详情 →</a>
+<a class="school-index-action" href="https://w3.tohoku.ac.jp/ijs/" target="_blank" rel="noopener noreferrer">研究室官网 ↗</a>
+</div>
+
+</div>
+
+<div class="school-index-empty">
+当前数据库暂时没有收录与这个方向明确匹配的院校。<br>
+随着数据库扩充，这里的结果会继续增加。
+</div>
+
+---
+
+## 怎么看这个数据库？
+
+<div class="school-index-policy">
+<strong>学校名不是最重要的数据。</strong><br><br>
+
+真正需要同时观察的是：
+
+<strong>大学 → 研究科 → 专攻 / Course → 教员 → 研究问题 → 入试条件。</strong><br><br>
+
+本站会尽量把“官方可确认的信息”和“本站自己的匹配判断”分开。院校总览页优先展示客观摘要；关于某个题目是否适合某位教授、某个研究环境，则放在院校详情页和教授详情页中进一步说明。<br><br>
+
+数据库不会按照综合大学排名排序。收录优先级取决于它对<strong>表象文化、动画、漫画、游戏、御宅文化及相邻研究</strong>是否具有实际参考价值。
+</div>

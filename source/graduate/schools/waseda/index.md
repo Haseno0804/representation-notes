@@ -7,212 +7,302 @@ top_img: false
 
 <link rel="stylesheet" href="/css/school-detail.css">
 
-<div class="school-detail-head">
-<div class="school-detail-kicker">日本表象文化大学院数据库</div>
-<div class="school-detail-name">早稻田大学</div>
-<div class="school-detail-dept">大学院文学研究科｜人文科学専攻｜表象・メディア論コース</div>
-<div class="school-detail-tags">
-<span class="school-detail-tag">表象文化论</span>
-<span class="school-detail-tag">流行文化</span>
-<span class="school-detail-tag">动画・漫画</span>
-<span class="school-detail-tag">媒介研究</span>
-<span class="school-detail-tag">视觉文化</span>
-<span class="school-detail-tag">性别・酷儿</span>
+<div class="school-db-head">
+<div class="school-db-kicker">SCHOOL DATABASE · 院校数据库</div>
+<div class="school-db-title">早稻田大学</div>
+<div class="school-db-en">Waseda University</div>
+
+<div class="school-db-path">
+<strong>大学院文学研究科</strong><br>
+Graduate School of Letters, Arts and Sciences<br><br>
+人文科学专攻 → 表象・メディア论 Course
+</div>
+
+<div class="school-db-status-row">
+<span class="school-db-status ok">2027年度募集要项已发布</span>
+<span class="school-db-status ok">2027年度研究指导名单已确认</span>
+<span class="school-db-status">修士 / 博士后期</span>
+<span class="school-db-status">最后核对：2026-09</span>
 </div>
 </div>
 
-## 基本信息
-
-<div class="school-summary-grid">
-<div class="school-summary-card">
-<div class="school-summary-label">2027 招生</div>
-<div class="school-summary-value">文学研究科整体 210 名※</div>
-</div>
-<div class="school-summary-card">
-<div class="school-summary-label">研究计划书</div>
-<div class="school-summary-value">日语 4,000～5,000 字</div>
-</div>
-<div class="school-summary-card">
-<div class="school-summary-label">海外中等教育 B 区分</div>
-<div class="school-summary-value">一般外国语：日语</div>
-</div>
-<div class="school-summary-card">
-<div class="school-summary-label">第二次考试</div>
-<div class="school-summary-value">Zoom 口述考试</div>
-</div>
+<div class="school-db-note">
+本页重点整理早稻田大学大学院文学研究科中与<strong>表象文化、动画、漫画、视觉文化、身体、媒介及宅文化研究</strong>关系最密切的“表象・メディア论” Course。
 </div>
 
-※2027 年度文学研究科修士整体募集 210 名，各课程没有单独设定固定名额。
+## 快速信息
 
-## 这里主要可以研究什么？
+<div class="school-db-info-grid">
 
-早稻田表象・メディア论的定位与本站的研究方向非常接近。
+<div class="school-db-info-card">
+<div class="school-db-info-label">研究科</div>
+<div class="school-db-info-value">大学院文学研究科</div>
+</div>
 
-课程本身以：
+<div class="school-db-info-card">
+<div class="school-db-info-label">专攻</div>
+<div class="school-db-info-value">人文科学专攻</div>
+</div>
 
-**媒介（Media）・身体（Body）・图像／表象（Image）**
+<div class="school-db-info-card">
+<div class="school-db-info-label">相关 Course</div>
+<div class="school-db-info-value">表象・メディア论</div>
+</div>
 
-为三个重要轴线。
+<div class="school-db-info-card">
+<div class="school-db-info-label">招生阶段</div>
+<div class="school-db-info-value">修士 / 博士后期</div>
+</div>
 
-研究对象并不限定于传统文学和艺术，也明确把电视、摄影、数字表现、媒介艺术、亚文化等现代文化现象纳入研究范围。
+</div>
 
-对于本站读者尤其值得关注：
+---
 
-- 动画与漫画
-- 流行文化
-- 亚文化
-- 视觉文化
-- 电影与电视剧
-- 数字媒介
-- 媒介技术
-- 身体表象
-- 性别与酷儿文化
-- 人偶文化
-- 展览与当代艺术
+## 可以关注哪些方向？
 
-## 2027 年值得关注的指导教员
+<div class="school-db-tags">
+<span class="school-db-tag">表象文化论</span>
+<span class="school-db-tag">动画研究</span>
+<span class="school-db-tag">漫画研究</span>
+<span class="school-db-tag">视觉文化</span>
+<span class="school-db-tag">Popular Culture</span>
+<span class="school-db-tag">身体论</span>
+<span class="school-db-tag">性别与酷儿研究</span>
+<span class="school-db-tag">媒介研究</span>
+<span class="school-db-tag">人形文化</span>
+<span class="school-db-tag">视听文化</span>
+</div>
 
-<div class="teacher-grid">
-<div class="teacher-card">
-<div class="teacher-name">石岡良治</div>
-<div class="teacher-field">表象文化论・视觉文化论・流行文化研究</div>
-<div class="teacher-desc">与本站“宅文化批评”方向非常接近。对于动画、漫画、流行文化、视觉文化与 image 研究尤其值得关注。</div>
+<div class="school-db-fit-grid">
+
+<div class="school-db-fit-card">
+<div class="school-db-fit-title">宅文化与 Popular Culture</div>
+<div class="school-db-fit-desc">
+动画、漫画、角色文化、Popular Culture、视觉文化等方向都有明确的教员与研究环境，比单纯寻找一个名为“动漫研究”的专业更适合按具体问题匹配。
+</div>
+</div>
+
+<div class="school-db-fit-card">
+<div class="school-db-fit-title">媒介、身体与图像</div>
+<div class="school-db-fit-desc">
+Course 本身并不只研究二次元，也覆盖身体表象、演剧、影像、数字媒介、声音、视觉文化等跨领域问题。
+</div>
+</div>
+
+<div class="school-db-fit-card">
+<div class="school-db-fit-title">性别、BL 与视觉文化</div>
+<div class="school-db-fit-desc">
+性别、酷儿理论、セクシュアリティ、视觉文化等研究在该 Course 中也有明确的教员方向。
+</div>
+</div>
+
+<div class="school-db-fit-card">
+<div class="school-db-fit-title">人形、角色与物质文化</div>
+<div class="school-db-fit-desc">
+除了动画漫画，还可以从人形文化、表演、身体、物质性等角度处理角色及其跨媒介存在。
+</div>
+</div>
+
+</div>
+
+---
+
+## 相关教授
+
+<div class="school-db-teacher-grid">
+
+<div class="school-db-teacher-card">
+<div class="school-db-teacher-name">石岡良治</div>
+<div class="school-db-teacher-role">准教授｜メディア表現研究</div>
+<div class="school-db-teacher-desc">
+研究领域包括表象文化论、视觉文化论、Popular Culture研究与Image研究。对于动画、漫画、角色文化及宅文化批评方向尤其值得优先关注。
+</div>
+<div class="school-db-tags">
+<span class="school-db-tag">表象文化论</span>
+<span class="school-db-tag">视觉文化</span>
+<span class="school-db-tag">Popular Culture</span>
+<span class="school-db-tag">动画 / 漫画</span>
+</div>
 <a class="teacher-detail-link" href="/graduate/professors/ishioka/">查看教授详情 →</a>
 </div>
-<div class="teacher-card">
-<div class="teacher-name">細馬宏通</div>
-<div class="teacher-field">视听表象研究</div>
-<div class="teacher-desc">研究人的声音和身体动作之间的互动，同时也分析电影、电视剧、漫画与动画作品中的相互行为。</div>
+
+<div class="school-db-teacher-card">
+<div class="school-db-teacher-name">細馬宏通</div>
+<div class="school-db-teacher-role">教授｜视听表象研究</div>
+<div class="school-db-teacher-desc">
+关注声音与身体动作的互动，也进行电影、电视剧、漫画、动画作品中的互动分析以及视听媒介史研究。
 </div>
-<div class="teacher-card">
-<div class="teacher-name">溝口彰子</div>
-<div class="teacher-field">性别・视觉文化・酷儿理论</div>
-<div class="teacher-desc">适合 BL、性别表象、视觉文化、性／性别政治、酷儿理论及电影等方向。</div>
-</div>
-<div class="teacher-card">
-<div class="teacher-name">チェン・ドミニク</div>
-<div class="teacher-field">媒介技术的人文学研究</div>
-<div class="teacher-desc">偏向数字媒介、技术、人机沟通、设计研究等。如果研究游戏、数字文化或新媒介，也值得进一步调查。</div>
-</div>
-<div class="teacher-card">
-<div class="teacher-name">菊地浩平</div>
-<div class="teacher-field">人偶文化论</div>
-<div class="teacher-desc">研究现代人偶剧、电视人偶剧及广义的人偶文化，可与角色文化、物质文化和表象研究产生交叉。</div>
-</div>
-<div class="teacher-card">
-<div class="teacher-name">関直子</div>
-<div class="teacher-field">视觉表象研究</div>
-<div class="teacher-desc">主要关注近现代美术史与展览表象，对于艺术、展示、视觉文化等方向具有较高相关性。</div>
+<div class="school-db-tags">
+<span class="school-db-tag">声音</span>
+<span class="school-db-tag">身体动作</span>
+<span class="school-db-tag">动画</span>
+<span class="school-db-tag">视听文化</span>
 </div>
 </div>
 
-<div class="school-detail-note">
-2027 年度指导教员是否实际募集新生需要逐年确认。上面的教员均依据当前公布的 2027 年度研究指导募集资料整理。
+<div class="school-db-teacher-card">
+<div class="school-db-teacher-name">菊地浩平</div>
+<div class="school-db-teacher-role">准教授｜广义人形文化研究</div>
+<div class="school-db-teacher-desc">
+主要从现代人形剧、电视人形剧等对象出发研究广义的人形文化。对于角色、身体、物质性、人偶与表象研究具有较强延展性。
 </div>
-
-## 2027 年度修士入试流程
-
-<div class="exam-flow">
-<div class="exam-step">
-<div class="exam-step-number">01</div>
-<div>
-<strong>出愿</strong>
-<p>海外大学毕业／预计毕业者：2026 年 7 月 1 日～7 月 13 日。日本大学毕业／预计毕业者：7 月 14 日～7 月 27 日。</p>
-</div>
-</div>
-<div class="exam-step">
-<div class="exam-step-number">02</div>
-<div>
-<strong>提交研究计划书</strong>
-<p>表象・メディア论课程要求日语 4,000～5,000 字，出愿时提交。</p>
-</div>
-</div>
-<div class="exam-step">
-<div class="exam-step-number">03</div>
-<div>
-<strong>第一次考试</strong>
-<p>2026 年 9 月 14 日。包括书类审查、专业科目和一般外国语。表象・メディア论专业科目包含资料解读。</p>
-</div>
-</div>
-<div class="exam-step">
-<div class="exam-step-number">04</div>
-<div>
-<strong>第二次口述考试</strong>
-<p>2026 年 10 月 4 日，仅第一次合格者参加，通过 Zoom 实施。</p>
-</div>
+<div class="school-db-tags">
+<span class="school-db-tag">人形文化</span>
+<span class="school-db-tag">表象文化</span>
+<span class="school-db-tag">身体</span>
+<span class="school-db-tag">物质性</span>
 </div>
 </div>
 
-## 中国学生尤其需要注意的语言条件
-
-对于主要在中国完成中学、高中教育的普通中国本科生，一般属于 **B 区分**。
-
-表象・メディア论 B 区分的一般外国语考试为：
-
-**日语。**
-
-此外，对于符合相应海外大学学历出愿资格、需要提交日本语能力证明的申请者，2027 年度要求满足以下之一：
-
-- JLPT N1（或旧 1 级）合格
-- EJU 日本语科目除记述外合计 260 分以上
-
-部分具有日本教育经历的申请者存在免交情况，因此必须结合自己的具体学历经历确认。
-
-## 官方资料与过去问
-
-<div class="school-past-note">
-<strong>过去问状态：</strong>
-目前可查看早稻田大学文学研究科 2026 年度修士入试过去问，其中包括表象・メディア论专业科目。2027 年度考试尚未成为可供参考的完整过去问，因此备考时目前以 2026 年度及更早题目为主。
+<div class="school-db-teacher-card">
+<div class="school-db-teacher-name">溝口彰子</div>
+<div class="school-db-teacher-role">准教授｜Image 与 Activism</div>
+<div class="school-db-teacher-desc">
+研究方向包括性别论、视觉文化研究、酷儿理论、性与性别、美术批评及电影论。对于 BL、性别表象与视觉文化研究尤其值得关注。
+</div>
+<div class="school-db-tags">
+<span class="school-db-tag">Gender</span>
+<span class="school-db-tag">Queer</span>
+<span class="school-db-tag">BL</span>
+<span class="school-db-tag">视觉文化</span>
+</div>
 </div>
 
-<div class="school-resource-grid">
-
-<a class="school-resource-card" href="https://www.waseda.jp/flas/glas/applicants/admission/" target="_blank" rel="noopener noreferrer">
-<div class="school-resource-type">OFFICIAL · 入试</div>
-<div class="school-resource-title">2027 年度修士入试信息</div>
-<div class="school-resource-desc">募集要项、研究计划书格式、出愿资格和日程等请最终以这里为准。</div>
-<div class="school-resource-arrow">早稻田大学官网 →</div>
-</a>
-
-<a class="school-resource-card" href="https://www.waseda.jp/flas/glas/about/curriculum/master/" target="_blank" rel="noopener noreferrer">
-<div class="school-resource-type">OFFICIAL · 课程</div>
-<div class="school-resource-title">表象・メディア论课程介绍</div>
-<div class="school-resource-desc">查看课程定位，以及“媒介・身体・图像”等核心研究框架。</div>
-<div class="school-resource-arrow">查看课程介绍 →</div>
-</a>
-
-<a class="school-resource-card" href="https://www.waseda.jp/inst/admission/other/2025/11/17/19452/" target="_blank" rel="noopener noreferrer">
-<div class="school-resource-type">OFFICIAL · 过去问</div>
-<div class="school-resource-title">2026 年度修士入试过去问</div>
-<div class="school-resource-desc">包含一般外国语以及表象・メディア论专业科目过去问。</div>
-<div class="school-resource-arrow">查看官方过去问 →</div>
-</a>
-
-<a class="school-resource-card" href="https://www.waseda.jp/flas/faculty/" target="_blank" rel="noopener noreferrer">
-<div class="school-resource-type">OFFICIAL · 教员</div>
-<div class="school-resource-title">文学学术院教员介绍</div>
-<div class="school-resource-desc">进一步核对各教员当前职称、专业领域与研究介绍。</div>
-<div class="school-resource-arrow">查看教员资料 →</div>
-</a>
-
 </div>
+
+<div class="school-db-note">
+早稻田“表象・メディア论”的一个特点，是相关教员跨度很大。选校时不要只看 Course 名字，也不要默认任何教授都适合所有宅文化题目；最终仍需回到<strong>研究对象、问题意识、方法和希望指导教员</strong>的具体匹配。
+</div>
+
+---
+
+## 2027年度修士一般入试
+
+<div class="school-db-table-wrap">
+<table class="school-db-table">
+
+<tr>
+<th>入学时期</th>
+<td>2027年4月</td>
+</tr>
+
+<tr>
+<th>申请 Course</th>
+<td>人文科学专攻 → 表象・メディア论</td>
+</tr>
+
+<tr>
+<th>研究计划书</th>
+<td>日语 4,000～5,000 字。</td>
+</tr>
+
+<tr>
+<th>第一阶段</th>
+<td>书类审查 + 笔试。</td>
+</tr>
+
+<tr>
+<th>一般外语</th>
+<td>从英语、法语、德语、俄语、现代汉语、意大利语、西班牙语、朝鲜语中选择 1 门。</td>
+</tr>
+
+<tr>
+<th>日语</th>
+<td>笔试科目包含日语。</td>
+</tr>
+
+<tr>
+<th>专业科目</th>
+<td>表象・メディア论，包含资料解读。</td>
+</tr>
+
+<tr>
+<th>第二阶段</th>
+<td>第一阶段合格者参加口述考试。</td>
+</tr>
+
+<tr>
+<th>国外大学学历申请</th>
+<td>2027年度一般入试中，主要在日本国外大学毕业或预计毕业者的出愿期为 2026年7月1日～7月13日。</td>
+</tr>
+
+<tr>
+<th>日本大学学历申请</th>
+<td>主要在日本大学毕业或预计毕业者的出愿期为 2026年7月14日～7月27日。</td>
+</tr>
+
+<tr>
+<th>日本语能力证明</th>
+<td>适用指定国外学历等申请资格者原则上需提交 JLPT N1（旧1级）或 EJU 日本语不含记述 260 分以上的证明；具体是否适用需按本人出愿资格确认。</td>
+</tr>
+
+<tr>
+<th>过去问</th>
+<td>官方说明过去入试问题原则上可查看最近 3 年份；部分未取得著作权许可的内容可能被遮蔽。</td>
+</tr>
+
+</table>
+</div>
+
+<div class="school-db-warning">
+<strong>注意：</strong>
+这里的入试数据针对<strong>2027年度修士课程一般入试</strong>整理。推荐入试、论文特别选拔以及博士后期课程的制度不同，不应混在同一组数据中。正式申请时必须重新阅读对应年度与入试类型的募集要项。
+</div>
+
+---
 
 ## 本站判断
 
-<div class="school-editorial">
-<strong>比较适合：</strong><br>
-动画、漫画、流行文化、视觉文化、亚文化、媒介、性别、数字文化等方向的申请者。<br><br>
+<div class="school-db-judgement">
+<div class="school-db-judgement-title">本站判断｜早稻田表象・メディア论适合什么样的申请者？</div>
 
-<strong>本站尤其推荐关注：</strong><br>
-如果你的题目本身就是“宅文化研究”，早稻田表象・メディア论目前的教员结构与这一方向存在非常直接的交叉，尤其是石冈良治、细马宏通、沟口彰子等人的研究。<br><br>
+<p>
+如果你的研究对象属于动画、漫画、角色、Popular Culture、视觉文化、身体、声优、2.5次元、BL、Gender、数字媒介等方向，早稻田是目前本站数据库中研究覆盖面非常宽的一类项目。
+</p>
 
-<strong>需要注意：</strong><br>
-这里并不是因为“能研究动画漫画”就意味着题目门槛低。4,000～5,000 字研究计划书、专业笔试、资料解读和口述考试，都要求申请者已经具备一定程度的研究能力。
+<p>
+它最大的优势并不是“这里可以研究二次元”这么简单，而是同一个 Course 内部就存在<strong>Media、Body、Image、Popular Culture、Visual Culture、Gender 等多条问题路线</strong>。
+</p>
+
+<p>
+但这同时意味着：一个笼统的“我想研究动画”“我喜欢御宅文化”并不足以形成匹配。真正重要的是先判断自己的问题更接近角色消费、动画表现、身体、声音、性别、视觉文化还是其他方向，再决定希望接受哪位教员的研究指导。
+</p>
+
+<p>
+另外，早稻田一般入试仍有明确的语言与专业笔试，因此准备方式不能只围绕研究计划书和面试展开。
+</p>
 </div>
 
-<div class="school-update">
-数据最后核验：2026-09-08<br>
-信息依据：早稻田大学文学研究科 2027 年度修士一般入试要项、2027 年度研究指导募集资料及表象・メディア论课程资料。实际出愿请再次确认当年度官方资料。
+---
+
+## 站内相关资源
+
+<div class="school-db-resource-grid">
+
+<a class="school-db-resource" href="/graduate/professors/ishioka/">
+<div class="school-db-resource-label">PROFESSOR</div>
+<div class="school-db-resource-title">石岡良治｜教授详情</div>
+</a>
+
+<a class="school-db-resource" href="/graduate/past-exams/">
+<div class="school-db-resource-label">PAST EXAMS</div>
+<div class="school-db-resource-title">过去问与笔试资料</div>
+</a>
+
+<a class="school-db-resource" href="/graduate/research-plan/">
+<div class="school-db-resource-label">RESEARCH PLAN</div>
+<div class="school-db-resource-title">研究计划书指南</div>
+</a>
+
+<a class="school-db-resource" href="/graduate/interview/">
+<div class="school-db-resource-label">INTERVIEW</div>
+<div class="school-db-resource-title">面试与口述考试指南</div>
+</a>
+
 </div>
 
-<a class="school-back" href="/graduate/schools/">← 返回院校数据库</a>
+<div class="school-db-updated">
+信息状态：Beta / 数据库 V2 模板<br>
+最后核对：2026-09-11<br>
+当前入试数据主要依据2027年度文学研究科修士课程一般入试信息。招生制度、研究指导与教员信息可能变化，请以实际申请年度官方信息为准。
+</div>

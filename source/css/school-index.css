@@ -1,0 +1,420 @@
+/* =========================================
+   SCHOOL DATABASE INDEX
+   ========================================= */
+
+.school-index-hero {
+  margin-bottom: 28px;
+  padding: 30px 32px;
+  border: 1px solid rgba(73,177,245,.22);
+  border-radius: 15px;
+  background:
+    linear-gradient(
+      135deg,
+      rgba(73,177,245,.07),
+      rgba(255,255,255,.90) 60%
+    );
+}
+
+.school-index-kicker {
+  margin-bottom: 8px;
+  color: #49b1f5;
+  font-size: .8em;
+  font-weight: 750;
+  letter-spacing: .08em;
+}
+
+.school-index-title {
+  margin-bottom: 12px;
+  font-size: 1.9em;
+  font-weight: 750;
+}
+
+.school-index-lead {
+  max-width: 880px;
+  line-height: 1.9;
+  opacity: .8;
+}
+
+.school-index-status {
+  margin-top: 18px;
+  padding-top: 16px;
+  border-top: 1px solid rgba(0,0,0,.07);
+  font-size: .88em;
+  line-height: 1.8;
+  opacity: .72;
+}
+
+/* 统计 */
+
+.school-index-stats {
+  display: grid;
+  grid-template-columns: repeat(4,1fr);
+  gap: 13px;
+  margin: 22px 0 34px;
+}
+
+.school-index-stat {
+  padding: 18px 19px;
+  border: 1px solid #e5e5e5;
+  border-radius: 10px;
+  background: rgba(255,255,255,.84);
+}
+
+.school-index-stat-number {
+  margin-bottom: 4px;
+  color: #358cc4;
+  font-size: 1.45em;
+  font-weight: 750;
+}
+
+.school-index-stat-label {
+  font-size: .82em;
+  opacity: .64;
+}
+
+/* 筛选 */
+
+.school-filter-section {
+  margin: 28px 0 34px;
+}
+
+.school-filter-title {
+  margin-bottom: 12px;
+  font-weight: 750;
+}
+
+.school-filter-note {
+  margin-bottom: 14px;
+  font-size: .88em;
+  line-height: 1.75;
+  opacity: .64;
+}
+
+.school-filter-bar {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 9px;
+}
+
+.school-filter-button {
+  padding: 7px 12px;
+  border: 1px solid #ddd;
+  border-radius: 999px;
+  background: rgba(255,255,255,.82);
+  color: inherit;
+  font-size: .84em;
+  cursor: pointer;
+  transition: .18s ease;
+}
+
+.school-filter-button:hover {
+  border-color: #49b1f5;
+  color: #358cc4;
+}
+
+.school-filter-button.active {
+  border-color: #49b1f5;
+  background: rgba(73,177,245,.11);
+  color: #358cc4;
+  font-weight: 700;
+}
+
+/* 学校 */
+
+.school-index-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 19px;
+  margin: 22px 0 35px;
+}
+
+.school-index-card {
+  padding: 25px 27px;
+  border: 1px solid #e4e4e4;
+  border-radius: 13px;
+  background: rgba(255,255,255,.87);
+  transition: .2s ease;
+}
+
+.school-index-card:hover {
+  border-color: rgba(73,177,245,.55);
+  box-shadow: 0 7px 20px rgba(0,0,0,.045);
+}
+
+.school-index-card.is-hidden {
+  display: none;
+}
+
+.school-index-card-head {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 18px;
+  margin-bottom: 17px;
+}
+
+.school-index-card-name {
+  margin-bottom: 4px;
+  font-size: 1.28em;
+  font-weight: 750;
+}
+
+.school-index-card-en {
+  font-size: .84em;
+  opacity: .5;
+}
+
+.school-index-card-status {
+  flex: 0 0 auto;
+  padding: 6px 10px;
+  border-radius: 999px;
+  background: rgba(70,180,120,.10);
+  color: #32916a;
+  font-size: .78em;
+  font-weight: 650;
+}
+
+.school-index-path {
+  margin: 14px 0 17px;
+  padding: 14px 16px;
+  border-radius: 8px;
+  background: rgba(0,0,0,.032);
+  line-height: 1.8;
+}
+
+.school-index-meta {
+  display: grid;
+  grid-template-columns: repeat(3,1fr);
+  gap: 12px;
+  margin: 16px 0;
+}
+
+.school-index-meta-item {
+  padding: 13px 14px;
+  border: 1px solid #ececec;
+  border-radius: 8px;
+}
+
+.school-index-meta-label {
+  margin-bottom: 5px;
+  font-size: .75em;
+  font-weight: 700;
+  opacity: .55;
+}
+
+.school-index-meta-value {
+  font-size: .9em;
+  line-height: 1.65;
+  font-weight: 650;
+}
+
+.school-index-tags {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  gap: 7px;
+  margin: 17px 0;
+}
+
+.school-index-tag {
+  display: inline-block;
+  align-self: flex-start;
+  padding: 5px 9px;
+  border-radius: 999px;
+  background: rgba(73,177,245,.09);
+  color: #358cc4;
+  font-size: .79em;
+  line-height: 1.4;
+}
+
+.school-index-teachers {
+  margin-top: 17px;
+  padding-top: 16px;
+  border-top: 1px solid #ededed;
+}
+
+.school-index-teachers-label {
+  margin-bottom: 9px;
+  font-size: .78em;
+  font-weight: 700;
+  opacity: .55;
+}
+
+.school-index-teacher-list {
+  line-height: 1.85;
+  font-size: .92em;
+}
+
+.school-index-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 9px;
+  margin-top: 20px;
+}
+
+.school-index-action,
+.school-index-action:visited {
+  display: inline-block;
+  padding: 8px 12px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  color: inherit !important;
+  font-size: .85em;
+  font-weight: 650;
+  text-decoration: none !important;
+  transition: .18s ease;
+}
+
+.school-index-action:hover {
+  border-color: #49b1f5;
+  color: #358cc4 !important;
+}
+
+.school-index-action.primary,
+.school-index-action.primary:visited {
+  border-color: #49b1f5;
+  background: rgba(73,177,245,.10);
+  color: #358cc4 !important;
+}
+
+/* 无结果 */
+
+.school-index-empty {
+  display: none;
+  margin: 24px 0;
+  padding: 25px;
+  border-radius: 10px;
+  background: rgba(0,0,0,.035);
+  text-align: center;
+  line-height: 1.8;
+  opacity: .7;
+}
+
+/* 数据说明 */
+
+.school-index-policy {
+  margin: 30px 0 15px;
+  padding: 21px 23px;
+  border-left: 4px solid #49b1f5;
+  border-radius: 8px;
+  background: rgba(73,177,245,.065);
+  line-height: 1.9;
+}
+
+/* =========================================
+   RESEARCH ORIENTATION · 研究取向
+   ========================================= */
+
+.school-orientation-block {
+  margin: 17px 0 4px;
+  padding-top: 15px;
+  border-top: 1px dashed #e7e7e7;
+}
+
+.school-orientation-label {
+  margin-bottom: 9px;
+  font-size: .76em;
+  font-weight: 700;
+  letter-spacing: .03em;
+  opacity: .55;
+}
+
+.school-orientation-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 7px;
+}
+
+.school-orientation {
+  display: inline-block;
+  padding: 5px 9px;
+  border: 1px solid rgba(120,120,120,.18);
+  border-radius: 6px;
+  background: rgba(0,0,0,.025);
+  font-size: .78em;
+  font-weight: 650;
+  line-height: 1.4;
+}
+
+/* 六类取向稍微区分 */
+.school-orientation.theory {
+  border-color: rgba(125,90,180,.24);
+  background: rgba(125,90,180,.07);
+}
+
+.school-orientation.analysis {
+  border-color: rgba(73,177,245,.24);
+  background: rgba(73,177,245,.07);
+}
+
+.school-orientation.history {
+  border-color: rgba(180,125,65,.24);
+  background: rgba(180,125,65,.07);
+}
+
+.school-orientation.social {
+  border-color: rgba(70,160,120,.24);
+  background: rgba(70,160,120,.07);
+}
+
+.school-orientation.practice {
+  border-color: rgba(220,120,120,.24);
+  background: rgba(220,120,120,.07);
+}
+
+.school-orientation.digital {
+  border-color: rgba(80,135,190,.24);
+  background: rgba(80,135,190,.07);
+}
+
+/* 总览说明 */
+.school-orientation-guide {
+  margin: 21px 0 30px;
+  padding: 18px 20px;
+  border-radius: 9px;
+  background: rgba(0,0,0,.03);
+}
+
+.school-orientation-guide-title {
+  margin-bottom: 7px;
+  font-weight: 750;
+}
+
+.school-orientation-guide-desc {
+  margin-bottom: 12px;
+  font-size: .87em;
+  line-height: 1.75;
+  opacity: .7;
+}
+
+@media (max-width: 900px) {
+  .school-index-stats {
+    grid-template-columns: repeat(2,1fr);
+  }
+
+  .school-index-meta {
+    grid-template-columns: 1fr;
+  }
+}
+
+@media (max-width: 768px) {
+  .school-index-hero {
+    padding: 23px 21px;
+  }
+
+  .school-index-title {
+    font-size: 1.55em;
+  }
+
+  .school-index-stats {
+    grid-template-columns: repeat(2,1fr);
+  }
+
+  .school-index-card {
+    padding: 21px 20px;
+  }
+
+  .school-index-card-head {
+    flex-direction: column;
+  }
+}

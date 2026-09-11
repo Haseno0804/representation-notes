@@ -134,6 +134,7 @@ top_img: false
 ## 教授列表
 
 <div class="prof-list">
+
 <div class="prof-card">
 <div class="prof-name">石岡良治</div>
 <div class="prof-affiliation">早稻田大学｜大学院文学研究科｜表象・メディア論</div>
@@ -151,6 +152,7 @@ top_img: false
 <a class="prof-detail-button" href="/graduate/professors/ishioka/">查看教授详情 →</a>
 </div>
 </div>
+
 <div class="prof-card">
 <div class="prof-name">三輪健太朗</div>
 <div class="prof-affiliation">东京大学｜大学院総合文化研究科｜表象文化論</div>
@@ -167,6 +169,61 @@ top_img: false
 <a class="prof-detail-button" href="/graduate/professors/miwa/">查看教授详情 →</a>
 </div>
 </div>
+
+<div class="prof-card">
+<div class="prof-name">須川亜紀子</div>
+<div class="prof-affiliation">横滨国立大学｜大学院都市イノベーション学府｜建築都市文化専攻</div>
+<div class="prof-card-tags">
+<span class="prof-card-tag">2.5次元</span>
+<span class="prof-card-tag">Fan / Audience Studies</span>
+<span class="prof-card-tag">性别・酷儿</span>
+<span class="prof-card-tag">漫画研究</span>
+<span class="prof-card-tag">流行文化</span>
+</div>
+<div class="prof-desc">
+研究2.5次元文化、Audience / Fan Studies、Gender与Popular Culture，重点关注动画、漫画、游戏中的角色如何进入舞台、Cosplay、粉丝实践与现实文化空间。
+</div>
+<div class="prof-card-footer">
+<a class="prof-detail-button" href="/graduate/professors/sugawa/">查看教授详情 →</a>
+</div>
+</div>
+
+<div class="prof-card">
+<div class="prof-name">茂木謙之介</div>
+<div class="prof-affiliation">东北大学｜大学院文学研究科｜日本学专攻・现代日本学</div>
+<div class="prof-card-tags">
+<span class="prof-card-tag">表象文化论</span>
+<span class="prof-card-tag">Media史</span>
+<span class="prof-card-tag">近代文化史</span>
+<span class="prof-card-tag">怪异 / 怪谈</span>
+<span class="prof-card-tag">流行文化</span>
+</div>
+<div class="prof-desc">
+研究表象文化论、日本近现代文化史与Media史，重点涉及皇室表象、怪异・怪谈、文学与Popular Culture之间的关系，并有游戏作品与近代文学Adaptation相关研究。
+</div>
+<div class="prof-card-footer">
+<a class="prof-detail-button" href="/graduate/professors/motegi/">查看教授详情 →</a>
+</div>
+</div>
+
+<div class="prof-card">
+<div class="prof-name">赤井紀美</div>
+<div class="prof-affiliation">东北大学｜大学院文学研究科｜日本学专攻・现代日本学</div>
+<div class="prof-card-tags">
+<span class="prof-card-tag">文学</span>
+<span class="prof-card-tag">演剧</span>
+<span class="prof-card-tag">Adaptation</span>
+<span class="prof-card-tag">Media Mix</span>
+<span class="prof-card-tag">Performance</span>
+</div>
+<div class="prof-desc">
+研究文学与演剧之间的跨领域关系，重点关注文学作品的剧化、Adaptation与Media Mix，以及内容如何跨越Genre与媒介被重新创造。
+</div>
+<div class="prof-card-footer">
+<a class="prof-detail-button" href="/graduate/professors/akai/">查看教授详情 →</a>
+</div>
+</div>
+
 </div>
 
 ---
