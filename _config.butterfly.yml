@@ -1,8 +1,8 @@
 # 1. 首页顶部全屏大图（可以换成你喜欢的二次元插画或壁纸外链）
-index_img: https://images.unsplash.com/photo-1579783900882-c0d3dad7b119?w=1600&auto=format&fit=crop
+index_img: /img/rei.png
 
 # 2. 网页全局背景底图（透过半透明卡片看到的底层壁纸）
-background: /img/rika.jpg
+background: /img/ss.jpg
 
 # 3. 首页大图正中央的打字机动效（截图中的名言台词效果）
 subtitle:
@@ -13,8 +13,6 @@ subtitle:
     - "宅文化的阅读、研究、与批评"
     - "表象、媒介、身体..."
     - "动画、漫画、游戏..."
-    - "咪啪～"
-    - "咪～"
 
 # 4. 右侧作者名片栏
 avatar:
