@@ -1,5 +1,5 @@
 ---
-title: 东京大学｜表象文化・漫画研究
+title: 东京大学｜表象文化・漫画・Gender / Queer研究
 comments: false
 aside: false
 top_img: false
@@ -63,9 +63,13 @@ Graduate School of Arts and Sciences<br><br>
 <span class="school-db-tag">媒介研究</span>
 <span class="school-db-tag">动画研究</span>
 <span class="school-db-tag">大众文化</span>
+<span class="school-db-tag">Gender</span>
+<span class="school-db-tag">Queer</span>
+<span class="school-db-tag">身体表象</span>
 </div>
 
 <div class="school-db-fit-grid">
+
 <div class="school-db-fit-card">
 <div class="school-db-fit-title">漫画与漫画表现论</div>
 <div class="school-db-fit-desc">
@@ -79,7 +83,17 @@ Graduate School of Arts and Sciences<br><br>
 并不限于狭义漫画研究。动画、视觉文化以及更广泛的 Popular Culture 也可能与表象文化论形成交叉。
 </div>
 </div>
+
+<div class="school-db-fit-card">
+<div class="school-db-fit-title">Gender / Queer与身体表象</div>
+<div class="school-db-fit-desc">
+对于以动画、漫画、角色及其他宅文化对象研究Gender、Sexuality、Queer、身体与Self-representation等问题的题目，也存在明确的方法论接口。
 </div>
+</div>
+
+</div>
+
+---
 
 ---
 
@@ -100,6 +114,26 @@ Graduate School of Arts and Sciences<br><br>
 <span class="school-db-tag">媒介</span>
 </div>
 <a class="teacher-detail-link" href="/graduate/professors/miwa/">查看教授详情 →</a>
+</div>
+
+<div class="school-db-teacher-card">
+<div class="school-db-teacher-name">清水 晶子</div>
+<div class="school-db-teacher-role">教授｜Feminism・Queer Theory</div>
+
+<div class="school-db-teacher-desc">
+研究Feminism与Queer Theory，尤其关注非规范Gender / Sexuality、身体、Self-representation以及相关文化政治问题。对于以动画、漫画、角色等宅文化对象讨论Gender、Queer与身体表象的研究，存在明确的方法论接口。
+</div>
+
+<div class="school-db-tags">
+<span class="school-db-tag">Feminism</span>
+<span class="school-db-tag">Queer Theory</span>
+<span class="school-db-tag">Gender</span>
+<span class="school-db-tag">Sexuality</span>
+<span class="school-db-tag">身体</span>
+<span class="school-db-tag">Self-representation</span>
+</div>
+
+<a class="teacher-detail-link" href="/graduate/professors/shimizu/">查看教授详情 →</a>
 </div>
 
 </div>
@@ -151,18 +185,61 @@ Graduate School of Arts and Sciences<br><br>
 ## 本站判断
 
 <div class="school-db-judgement">
-<div class="school-db-judgement-title">本站判断｜什么样的题目比较值得关注这里？</div>
+<div class="school-db-judgement-title">本站判断｜东京大学的优势在于“同一个宅文化对象，可以从完全不同的问题进入”</div>
 
 <p>
-如果你的问题真正落在<strong>漫画表现、漫画媒介、视觉文化以及表象文化论</strong>上，东京大学这一方向值得认真考虑。
+东京大学表象文化论并不是按照“漫画研究室”“动画研究室”“Gender研究室”这样的对象分类来组织研究。
 </p>
 
 <p>
-尤其需要注意的是：申请时不要只因为“我喜欢漫画 / 动画”就判断匹配。更重要的是你的研究问题是否能够与具体教授的问题意识、方法和研究环境发生关系。
+官方FAQ明确说明，研究主题本身原则上没有固定限制，但如果采用的研究方法超出Course能够指导的范围，也可能无法接受。因此真正重要的不是“研究对象是不是动画漫画”，而是<strong>你的问题意识与哪位教师的方法发生关系</strong>。
 </p>
 
 <p>
-三輪健太朗目前的核心专长明确是漫画论，但其教学也涉及动画等相邻领域和更广泛的 Popular Culture。因此，“漫画研究”是非常清楚的匹配点，而其他宅文化对象则需要进一步看研究问题本身。
+目前对于本站关注的宅文化方向，至少可以看到两条非常不同而且明确的路径：
+</p>
+
+<p>
+<strong>
+三輪健太朗<br>
+→ 漫画论 / 漫画表现 / 近代视觉文化史
+</strong>
+</p>
+
+<p>
+以及：
+</p>
+
+<p>
+<strong>
+清水晶子<br>
+→ Feminism / Queer Theory / Gender / Sexuality / Body
+</strong>
+</p>
+
+<p>
+因此，同样研究一部漫画或动画：
+</p>
+
+<p>
+如果问题是“漫画的格、图像、文字和时间如何组织”“这种表现形式在漫画史中怎样形成”，三輪健太朗的方向会更加自然。
+</p>
+
+<p>
+如果问题是“作品中的身体如何被Gender化”“非规范Sexuality怎样被表现”“角色与Queer / Gender规范之间存在什么关系”，清水晶子的研究接口会更加明显。
+</p>
+
+<p>
+<strong>本站实际经验：</strong>
+本站掌握的实际研究经历中，存在由清水晶子指导宅文化相关研究的案例。因此，这里不仅是根据研究关键词作出的理论推测。
+</p>
+
+<p>
+不过，这并不意味着任何动画、漫画或宅文化题目都适合清水晶子。真正的匹配仍然取决于题目是否把Gender、Sexuality、Queer、身体或表象政治作为核心研究问题。
+</p>
+
+<p>
+另外需要特别注意：东京大学表象文化论并不是传统意义上的“报考某教授研究室”。官方FAQ明确说明，修士入试前不需要确定指导教师，实际指导关系会在入学后根据研究内容等因素综合决定。
 </p>
 </div>
 
@@ -175,6 +252,16 @@ Graduate School of Arts and Sciences<br><br>
 <a class="school-db-resource" href="/graduate/professors/miwa/">
 <div class="school-db-resource-label">PROFESSOR</div>
 <div class="school-db-resource-title">三輪健太朗｜教授详情</div>
+</a>
+
+<a class="school-db-resource" href="/graduate/professors/shimizu/">
+<div class="school-db-resource-label">PROFESSOR</div>
+<div class="school-db-resource-title">清水晶子｜教授详情</div>
+</a>
+
+<a class="school-db-resource" href="https://repre.c.u-tokyo.ac.jp/faq/" target="_blank" rel="noopener noreferrer">
+<div class="school-db-resource-label">OFFICIAL · FAQ</div>
+<div class="school-db-resource-title">表象文化论｜大学院FAQ ↗</div>
 </a>
 
 <a class="school-db-resource" href="/graduate/past-exams/">

@@ -23,11 +23,11 @@ top_img: false
 
 <div class="school-index-stats">
 <div class="school-index-stat">
-<div class="school-index-stat-number">8</div>
+<div class="school-index-stat-number">10</div>
 <div class="school-index-stat-label">当前收录大学</div>
 </div>
 <div class="school-index-stat">
-<div class="school-index-stat-number">8</div>
+<div class="school-index-stat-number">10</div>
 <div class="school-index-stat-label">重点研究路径</div>
 </div>
 <div class="school-index-stat">
@@ -84,7 +84,7 @@ top_img: false
 <div class="school-index-grid">
 
 <div class="school-index-card"
-     data-tags="anime manga media visual theory"
+     data-tags="anime manga otaku media visual gender theory"
      data-orientations="theory analysis">
 <div class="school-index-card-head">
 <div>
@@ -130,12 +130,14 @@ top_img: false
 <div class="school-index-teachers">
 <div class="school-index-teachers-label">重点相关教员</div>
 <div class="school-index-teacher-list">
-<strong>三輪健太朗</strong>｜表象文化论・漫画论
+<strong>三輪健太朗</strong>｜漫画论・近代视觉文化史<br>
+<strong>清水晶子</strong>｜Feminism・Queer Theory・Gender / Sexuality
 </div>
 </div>
 <div class="school-index-actions">
 <a class="school-index-action primary" href="/graduate/schools/utokyo/">查看院校详情 →</a>
 <a class="school-index-action" href="/graduate/professors/miwa/">三輪健太朗 →</a>
+<a class="school-index-action" href="/graduate/professors/shimizu/">清水晶子 →</a>
 <a class="school-index-action" href="https://www.c.u-tokyo.ac.jp/graduate/admission/master-doctor/2027/2027-001.html" target="_blank" rel="noopener noreferrer">官方募集页面 ↗</a>
 </div>
 </div>
@@ -201,6 +203,77 @@ top_img: false
 <a class="school-index-action" href="https://www.waseda.jp/flas/glas/assets/uploads/2026/06/34_2027_4_GLAS_Master-program_Application-Guide_Ippan.pdf" target="_blank" rel="noopener noreferrer">2027募集要项 ↗</a>
 </div>
 </div>
+
+<div class="school-index-card"
+     data-tags="anime manga otaku media visual body gender"
+     data-orientations="theory analysis history">
+
+<div class="school-index-card-head">
+<div>
+<div class="school-index-card-name">学习院大学</div>
+<div class="school-index-card-en">Gakushuin University</div>
+</div>
+<div class="school-index-card-status">2027 募集已发布</div>
+</div>
+
+<div class="school-index-path">
+<strong>大学院人文科学研究科</strong><br>
+身体表象文化学専攻
+</div>
+
+<div class="school-index-meta">
+
+<div class="school-index-meta-item">
+<div class="school-index-meta-label">招生阶段</div>
+<div class="school-index-meta-value">博士前期 / 博士后期</div>
+</div>
+
+<div class="school-index-meta-item">
+<div class="school-index-meta-label">重点方向</div>
+<div class="school-index-meta-value">漫画・动画・身体・Gender・2.5次元</div>
+</div>
+
+<div class="school-index-meta-item">
+<div class="school-index-meta-label">重点相关教员</div>
+<div class="school-index-meta-value">佐々木果 / 中野春夫 / 田丸理砂</div>
+</div>
+
+</div>
+
+<div class="school-index-tags">
+<span class="school-index-tag">漫画研究</span>
+<span class="school-index-tag">动画研究</span>
+<span class="school-index-tag">身体表象</span>
+<span class="school-index-tag">2.5次元</span>
+<span class="school-index-tag">Gender</span>
+<span class="school-index-tag">Media</span>
+</div>
+
+<div class="school-orientation-block">
+<div class="school-orientation-label">研究取向</div>
+<div class="school-orientation-list">
+<span class="school-orientation theory">理论 / 批评</span>
+<span class="school-orientation analysis">作品分析</span>
+<span class="school-orientation history">历史 / Media史</span>
+</div>
+</div>
+
+<div class="school-index-teachers">
+<div class="school-index-teachers-label">本站重点相关教员</div>
+<div class="school-index-teacher-list">
+<strong>佐々木 果</strong>｜漫画・动画・Media史<br>
+<strong>中野 春夫</strong>｜2.5次元・舞台・身体表象文化史<br>
+<strong>田丸 理砂</strong>｜Gender・少女文化・女性表象
+</div>
+</div>
+
+<div class="school-index-actions">
+<a class="school-index-action primary" href="/graduate/schools/gakushuin/">查看院校详情 →</a>
+<a class="school-index-action" href="https://www.cscv.gakushuin.ac.jp/" target="_blank" rel="noopener noreferrer">专攻官网 ↗</a>
+</div>
+
+</div>
+
 <div class="school-index-card"
      data-tags="anime manga otaku media visual gender"
      data-orientations="analysis practice">
@@ -350,7 +423,7 @@ top_img: false
 </div>
 <div class="school-index-meta-item">
 <div class="school-index-meta-label">重点方向</div>
-<div class="school-index-meta-value">漫画・动画・游戏・御宅文化史</div>
+<div class="school-index-meta-value">漫画・Gender・御宅文化史・Archive</div>
 </div>
 <div class="school-index-meta-item">
 <div class="school-index-meta-label">数据状态</div>
@@ -380,14 +453,17 @@ top_img: false
 <div class="school-index-teachers">
 <div class="school-index-teachers-label">重点相关教员</div>
 <div class="school-index-teacher-list">
-<strong>藤本 由香里</strong>｜少女漫画・Gender・漫画国际比较<br>
-<strong>宮本 大人</strong>｜漫画史<br>
-<strong>森川 嘉一郎</strong>｜御宅文化史・Archive・都市空间
+<strong>宮本 大人</strong>｜漫画史・表象文化论・出版 / 接受<br>
+<strong>藤本 由香里</strong>｜少女漫画・Gender・国际比较 / 规制<br>
+<strong>森川 嘉一郎</strong>｜御宅文化史・Archive・Exhibition / 都市空间
 </div>
 </div>
 
 <div class="school-index-actions">
 <a class="school-index-action primary" href="/graduate/schools/meiji/">查看院校详情 →</a>
+<a class="school-index-action" href="/graduate/professors/miyamoto/">宮本大人 →</a>
+<a class="school-index-action" href="/graduate/professors/fujimoto/">藤本由香里 →</a>
+<a class="school-index-action" href="/graduate/professors/morikawa/">森川嘉一郎 →</a>
 </div>
 </div>
 
@@ -594,6 +670,73 @@ top_img: false
 <div class="school-index-actions">
 <a class="school-index-action primary" href="/graduate/schools/tohoku/">查看院校详情 →</a>
 <a class="school-index-action" href="https://w3.tohoku.ac.jp/ijs/" target="_blank" rel="noopener noreferrer">研究室官网 ↗</a>
+</div>
+
+</div>
+
+<div class="school-index-card"
+     data-tags="media visual theory"
+     data-orientations="theory analysis">
+
+<div class="school-index-card-head">
+<div>
+<div class="school-index-card-name">一桥大学</div>
+<div class="school-index-card-en">Hitotsubashi University</div>
+</div>
+<div class="school-index-card-status">2027 募集已发布</div>
+</div>
+
+<div class="school-index-path">
+<strong>大学院言語社会研究科</strong><br>
+言語社会専攻 → 第1部門「人文総合」
+</div>
+
+<div class="school-index-meta">
+
+<div class="school-index-meta-item">
+<div class="school-index-meta-label">招生阶段</div>
+<div class="school-index-meta-value">修士 / 博士后期</div>
+</div>
+
+<div class="school-index-meta-item">
+<div class="school-index-meta-label">重点方向</div>
+<div class="school-index-meta-value">表象・映像・Media・跨领域人文学</div>
+</div>
+
+<div class="school-index-meta-item">
+<div class="school-index-meta-label">宅文化匹配</div>
+<div class="school-index-meta-value">目前指导教师选择受限</div>
+</div>
+
+</div>
+
+<div class="school-index-tags">
+<span class="school-index-tag">表象芸術論</span>
+<span class="school-index-tag">映像論</span>
+<span class="school-index-tag">Media</span>
+<span class="school-index-tag">视觉文化</span>
+<span class="school-index-tag">跨领域人文学</span>
+</div>
+
+<div class="school-orientation-block">
+<div class="school-orientation-label">研究取向</div>
+<div class="school-orientation-list">
+<span class="school-orientation theory">理论 / 批评</span>
+<span class="school-orientation analysis">作品分析</span>
+</div>
+</div>
+
+<div class="school-index-teachers">
+<div class="school-index-teachers-label">方向相关教员 · 招生状态注意</div>
+<div class="school-index-teacher-list">
+<strong>武村知子</strong>｜文学・表象芸術論・映像論<br>
+<span style="color:#b56a4a;">2025年度以后原则上不招收主ゼミ、​​副ゼミ学生（个别情况可咨询）</span>
+</div>
+</div>
+
+<div class="school-index-actions">
+<a class="school-index-action primary" href="/graduate/schools/hitotsubashi/">查看院校详情 →</a>
+<a class="school-index-action" href="https://gensha.hit-u.ac.jp/staff/" target="_blank" rel="noopener noreferrer">指导教师列表 ↗</a>
 </div>
 
 </div>

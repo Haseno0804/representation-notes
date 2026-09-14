@@ -1,0 +1,161 @@
+/* =========================
+   顶部导航栏：居中、左对齐布局
+   ========================= */
+
+#nav {
+  height: 72px;
+  padding: 0 max(32px, calc((100vw - 1680px) / 2));
+  display: flex;
+  align-items: center;
+  background: rgba(255, 255, 255, 0.96);
+  box-shadow: 0 1px 0 rgba(0, 0, 0, 0.08);
+}
+
+/* 左侧站名 */
+#blog-info {
+  flex: 0 0 auto;
+  margin-right: 58px;
+}
+
+#site-name {
+  color: #202124 !important;
+  font-size: 20px !important;
+  font-weight: 700 !important;
+  white-space: nowrap;
+}
+
+/* 菜单不再自动推到最右边 */
+#menus {
+  flex: 1;
+  margin-left: 0 !important;
+}
+
+#menus .menus_items {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 30px;
+}
+
+/* 清除 Butterfly 原来的菜单间距 */
+#menus .menus_item {
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+/* 菜单文字 */
+#menus .menus_item > .site-page {
+  position: relative;
+  padding: 24px 0 !important;
+  color: #282828 !important;
+  font-size: 16px !important;
+  font-weight: 600;
+  line-height: 24px;
+  white-space: nowrap;
+  transition: color 0.2s ease;
+}
+
+/* 隐藏一级菜单前面的图标 */
+#menus .menus_item > .site-page > i:first-child {
+  display: none;
+}
+
+/* 悬停效果 */
+#menus .menus_item > .site-page:hover {
+  color: #49b1f5 !important;
+}
+
+/* 蓝色下划线 */
+#menus .menus_item > .site-page::after {
+  content: "";
+  position: absolute;
+  right: 0;
+  bottom: 16px;
+  left: 0;
+  height: 2px;
+  background: #49b1f5;
+  transform: scaleX(0);
+  transform-origin: center;
+  transition: transform 0.2s ease;
+}
+
+#menus .menus_item > .site-page:hover::after {
+  transform: scaleX(1);
+}
+
+/* 下拉菜单 */
+#menus .menus_item_child {
+  top: 62px;
+  min-width: 150px;
+  padding: 8px 0;
+  border-radius: 6px;
+  background: rgba(255, 255, 255, 0.98);
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.12);
+}
+
+#menus .menus_item_child .site-page {
+  padding: 9px 18px !important;
+  color: #333 !important;
+  font-size: 15px !important;
+}
+
+/* 手机端继续使用 Butterfly 原来的折叠菜单 */
+@media (max-width: 900px) {
+  #nav {
+    height: 60px;
+    padding: 0 20px;
+  }
+
+  #blog-info {
+    margin-right: 0;
+  }
+
+  #site-name {
+    font-size: 17px !important;
+  }
+
+  #menus .menus_items {
+    gap: 0;
+  }
+}
+
+/* 左上角只显示个人品牌名 */
+#blog-info .site-name {
+  font-size: 0 !important;
+  white-space: nowrap;
+}
+
+#blog-info .site-name::after {
+  content: "音色工艺＃×P";
+  font-size: 18px;
+  font-weight: 700;
+}
+
+/* 修复顶部下拉菜单：鼠标经过空隙时不再关闭 */
+#nav .menus_items .menus_item {
+  position: relative;
+}
+
+/* 让菜单文字上下的留白也能感应鼠标 */
+#nav .menus_items .menus_item > .site-page {
+  display: inline-flex;
+  align-items: center;
+}
+
+/* 下拉框跟随父菜单底部，替代原来固定的 top 值 */
+#nav .menus_items .menus_item > .menus_item_child {
+  top: calc(100% + 8px) !important;
+  margin-top: 0 !important;
+}
+
+/* 用透明区域连接菜单和下拉框 */
+#nav .menus_items .menus_item > .menus_item_child::before {
+  content: "";
+  position: absolute;
+  top: -12px;
+  left: 0;
+  width: 100%;
+  height: 12px;
+  background: transparent;
+  pointer-events: auto;
+}

@@ -107,56 +107,118 @@ Graduate School of Global Japanese Studies<br><br>
 
 ---
 
+## 三位重点教员应该怎样区分？
+
+<div class="school-db-fit-grid">
+
+<div class="school-db-fit-card">
+<div class="school-db-fit-title">宮本大人｜漫画史 × 表现与历史制度</div>
+<div class="school-db-fit-desc">
+以日本近现代漫画史为核心，尤其关注漫画表现、出版、流通、读者接受以及历史制度。具有明确的表象文化论研究背景，但目前实际研究取向更重视史料、Media环境和具体漫画表现。
+</div>
+</div>
+
+<div class="school-db-fit-card">
+<div class="school-db-fit-title">藤本由香里｜少女漫画 × Gender与国际比较</div>
+<div class="school-db-fit-desc">
+围绕少女漫画、Gender、表现技法发展、国际传播、表现规制与著作权等问题展开研究。适合把具体漫画分析与Gender、历史变化及跨文化环境结合。
+</div>
+</div>
+
+<div class="school-db-fit-card">
+<div class="school-db-fit-title">森川嘉一郎｜御宅文化史 × Archive与都市空间</div>
+<div class="school-db-fit-desc">
+研究漫画、动画、游戏与御宅文化史，并重点关注Archive构筑、Exhibition、趣味群体、秋叶原及都市空间。研究对象最直接覆盖广义御宅文化。
+</div>
+</div>
+
+</div>
+
+---
+
 ## 重点相关教员
 
 <div class="school-db-teacher-grid">
 
 <div class="school-db-teacher-card">
-<div class="school-db-teacher-name">藤本 由香里</div>
-<div class="school-db-teacher-role">教授｜少女漫画・Gender・漫画国际比较</div>
+<div class="school-db-teacher-name">宮本 大人</div>
+<div class="school-db-teacher-role">教授｜漫画史・表象文化论</div>
+
 <div class="school-db-teacher-desc">
-研究少女漫画的发展过程、女性意识的时代变化、漫画表现技法、性别越境表现，以及漫画的国际比较、流通、表现规制与版权问题。
+研究日本近现代漫画史，尤其关注昭和战前・战时儿童漫画的表现、出版、流通、接受与统制。其研究训练与表象文化论具有明确联系，但现在的实际研究重心主要落在漫画史、具体表现以及历史制度环境。
 </div>
+
+<div class="school-db-tags">
+<span class="school-db-tag">漫画史</span>
+<span class="school-db-tag">表象文化论</span>
+<span class="school-db-tag">漫画表现</span>
+<span class="school-db-tag">出版文化</span>
+<span class="school-db-tag">文化史</span>
+</div>
+
+<div class="school-db-note">
+<strong>指导状态：</strong>
+目前博士前期研究指导 ○，博士后期研究指导 −。
+</div>
+
+<a class="teacher-detail-link" href="/graduate/professors/miyamoto/">查看教授详情 →</a>
+</div>
+
+
+<div class="school-db-teacher-card">
+<div class="school-db-teacher-name">藤本 由香里</div>
+<div class="school-db-teacher-role">教授｜漫画文化论・Gender论</div>
+
+<div class="school-db-teacher-desc">
+研究少女漫画的发展、女性意识与Gender表象、漫画表现技法、国际比较、流通、表现规制与著作权。过去实际指导题目涵盖BL、少女漫画、中国漫画、Gender及跨文化传播等多个方向。
+</div>
+
 <div class="school-db-tags">
 <span class="school-db-tag">少女漫画</span>
 <span class="school-db-tag">Gender</span>
-<span class="school-db-tag">表象</span>
+<span class="school-db-tag">漫画文化论</span>
 <span class="school-db-tag">国际比较</span>
-</div>
+<span class="school-db-tag">表现规制</span>
 </div>
 
-<div class="school-db-teacher-card">
-<div class="school-db-teacher-name">宮本 大人</div>
-<div class="school-db-teacher-role">教授｜漫画史</div>
-<div class="school-db-teacher-desc">
-主要研究日本漫画史，尤其关注昭和战前、战中儿童物语漫画的表现、出版、流通、接受以及社会统制。官方也明确表示，可以指导从历史角度研究漫画与动画的题目。
+<div class="school-db-note">
+<strong>指导状态：</strong>
+目前博士前期、博士后期研究指导均为 ○。
 </div>
-<div class="school-db-tags">
-<span class="school-db-tag">漫画史</span>
-<span class="school-db-tag">动画史</span>
-<span class="school-db-tag">出版</span>
-<span class="school-db-tag">历史资料</span>
+
+<a class="teacher-detail-link" href="/graduate/professors/fujimoto/">查看教授详情 →</a>
 </div>
-</div>
+
 
 <div class="school-db-teacher-card">
 <div class="school-db-teacher-name">森川 嘉一郎</div>
-<div class="school-db-teacher-role">准教授｜御宅文化史・Archive・都市空间</div>
+<div class="school-db-teacher-role">准教授｜漫画・动画・游戏・御宅文化史</div>
+
 <div class="school-db-teacher-desc">
-研究漫画、动画、游戏与御宅文化史，同时关注相关资料的Archive建设与展示，以及趣味（taste）和都市空间之间的关系。
+研究漫画、动画、游戏与御宅文化史，同时长期关注相关Archive的构筑与展示运用，并研究趣味群体、秋叶原、公共空间及都市环境中的Pop Culture。
 </div>
+
 <div class="school-db-tags">
-<span class="school-db-tag">御宅文化</span>
-<span class="school-db-tag">动画 / 漫画 / 游戏</span>
+<span class="school-db-tag">御宅文化史</span>
+<span class="school-db-tag">漫画・动画・游戏</span>
 <span class="school-db-tag">Archive</span>
+<span class="school-db-tag">Exhibition</span>
 <span class="school-db-tag">都市空间</span>
 </div>
+
+<div class="school-db-note">
+<strong>指导状态：</strong>
+目前博士前期、博士后期研究指导均为 ○。
+</div>
+
+<a class="teacher-detail-link" href="/graduate/professors/morikawa/">查看教授详情 →</a>
 </div>
 
 </div>
 
 <div class="school-db-note">
-从现任教员结构来看，明治的强项并不是“用同一套抽象理论解释所有二次元对象”，而是<strong>漫画史、Gender、御宅文化史、Archive、媒介与具体对象研究</strong>。这也是它与早稻田、立命馆比较时最值得注意的差别。
+<strong>导师选择提示：</strong>
+三位教师虽然都属于Pop Culture研究领域，但研究方法差异很大。宮本大人偏漫画史与历史制度，藤本由香里偏少女漫画、Gender与跨文化传播，森川嘉一郎则偏御宅文化史、Archive、Exhibition与都市空间。研究对象相同，并不意味着三位教师都同样适合。
 </div>
 
 ---
@@ -280,27 +342,97 @@ BL出版、Coupling偏好、男性身体表象、Gender意识等已经长期出�
 ## 本站判断
 
 <div class="school-db-judgement">
-<div class="school-db-judgement-title">本站判断｜明治 Pop Culture 研究最适合什么样的题目？</div>
+<div class="school-db-judgement-title">本站判断｜宅文化方向匹配度很高，但必须按研究方法选择导师</div>
 
 <p>
-如果你的研究对象非常明确属于<strong>漫画、动画、游戏、御宅文化、BL、声优、手办、同人或相关大众文化</strong>，明治大学是非常值得关注的一所。
+对于<strong>漫画、动画、游戏、御宅文化、BL、声优、Figure及其他Popular Culture</strong>方向，明治大学国际日本学研究科Pop Culture研究领域属于本站目前数据库中匹配关系非常明确的项目。
 </p>
 
 <p>
-它最明显的优势是：这里不存在“我的研究对象到底算不算正经研究对象”这种太强的门槛。官方过去的实际修士论文已经充分说明，从动画人物到Bilibili、从声优到Figure、从BL到游戏杂志，都可以进入研究。
+这里最大的优势之一是：
 </p>
 
 <p>
-但与此同时，明治的研究风格通常更要求你回答：<strong>材料在哪里？历史是什么？一次资料是什么？你怎样证明自己的判断？</strong>
+<strong>
+漫画、动画、游戏与御宅文化本身已经是正式的大学院研究对象。
+</strong>
 </p>
 
 <p>
-所以如果你的计划书高度依赖抽象哲学概念，却缺少具体材料、作品分析或历史调查，未必是最自然的匹配方式。
+因此，相比一些必须先把动画漫画“转换”为文学、美学或哲学问题才能获得研究位置的大学院，在明治研究具体Pop Culture对象本身并不会显得特别例外。
 </p>
 
 <p>
-换句话说，它不是“不做表象”，而是它的强项更接近<strong>具体对象＋历史 / 档案 / 社会 / Gender / 作品分析</strong>，这一点和立命馆千葉雅也式的哲学・表象文化论路线区别很明显。
+但这不意味着三位教师使用同一种研究方法。
 </p>
+
+<p>
+<strong>
+宮本大人<br>
+→ 漫画史 / 漫画表现 / 出版流通 / 历史制度
+</strong>
+</p>
+
+<p>
+<strong>
+藤本由香里<br>
+→ 少女漫画 / Gender / 国际比较 / 表现规制
+</strong>
+</p>
+
+<p>
+<strong>
+森川嘉一郎<br>
+→ 御宅文化史 / Archive / Exhibition / 都市空间
+</strong>
+</p>
+
+<p>
+因此，选择明治时比“我研究动画还是漫画”更重要的问题是：
+</p>
+
+<p>
+<strong>
+我究竟想通过这个对象研究什么？
+</strong>
+</p>
+
+<p>
+同样研究漫画：
+</p>
+
+<p>
+漫画表现与出版史 → 宮本大人<br>
+少女漫画与Gender → 藤本由香里<br>
+漫画Archive与御宅文化空间 → 森川嘉一郎
+</p>
+
+<p>
+同样研究动画或游戏也是如此。如果问题主要是御宅文化史、资料保存、展览和都市空间，森川嘉一郎可能比单纯按照“动画教授”“游戏教授”寻找导师更加自然。
+</p>
+
+<p>
+从本站目前掌握的研究环境来看，明治的强项并不是统一使用某一种狭义的表象文化理论，而更接近：
+</p>
+
+<p>
+<strong>
+具体对象<br>
+＋<br>
+作品与历史材料<br>
+＋<br>
+文化制度 / Gender / Archive / 社会空间
+</strong>
+</p>
+
+<p>
+因此，如果研究计划高度依赖抽象哲学概念，却缺少具体材料、作品分析或历史调查，这里未必是最自然的匹配方式。
+</p>
+
+<p>
+反过来说，对于能够明确提出研究对象、材料范围和调查方法的宅文化题目，明治大学具有很强的实际考学价值。
+</p>
+
 </div>
 
 ---
@@ -308,6 +440,21 @@ BL出版、Coupling偏好、男性身体表象、Gender意识等已经长期出�
 ## 站内相关资源
 
 <div class="school-db-resource-grid">
+
+<a class="school-db-resource" href="/graduate/professors/miyamoto/">
+<div class="school-db-resource-label">PROFESSOR</div>
+<div class="school-db-resource-title">宮本大人｜漫画史・表象文化论</div>
+</a>
+
+<a class="school-db-resource" href="/graduate/professors/fujimoto/">
+<div class="school-db-resource-label">PROFESSOR</div>
+<div class="school-db-resource-title">藤本由香里｜少女漫画・Gender</div>
+</a>
+
+<a class="school-db-resource" href="/graduate/professors/morikawa/">
+<div class="school-db-resource-label">PROFESSOR</div>
+<div class="school-db-resource-title">森川嘉一郎｜御宅文化史・Archive</div>
+</a>
 
 <a class="school-db-resource" href="/research/otaku/">
 <div class="school-db-resource-label">OTAKU CULTURE</div>
@@ -333,6 +480,6 @@ BL出版、Coupling偏好、男性身体表象、Gender意识等已经长期出�
 
 <div class="school-db-updated">
 信息状态：Database V2 Beta<br>
-最后核对：2026-09-11<br>
+最后核对：2026-09-14<br>
 主要依据明治大学国际日本学研究科2027年度入试、Pop Culture研究领域现任教员及历年修士论文官方资料整理。
 </div>

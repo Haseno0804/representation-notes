@@ -7,12 +7,11 @@ background: /img/ss.jpg
 # 3. 首页大图正中央的打字机动效（截图中的名言台词效果）
 subtitle:
   enable: true
-  loop: true          # 是否循环打字
-  source: false       # 设为 false 使用自定义文本
+  loop: false
+  source: false
   sub:
-    - "宅文化的阅读、研究、与批评"
-    - "表象、媒介、身体..."
-    - "动画、漫画、游戏..."
+    - "从表象、媒介、身体的视角"
+    - "动画、漫画、游戏、二创、2.5次元..."
 
 # 4. 右侧作者名片栏
 avatar:
@@ -57,7 +56,8 @@ aside:
 
   card_author:
     enable: true
-    description: "QQ群1090084816二次元吹水杂谈考学什么都行，欢迎来玩～"
+    description: QQ群1090084816，二次元吹水、杂谈、考学什么都行，欢迎来玩
+
     button:
       enable: true
       icon: fas fa-circle-info
@@ -67,3 +67,9 @@ aside:
   card_announcement:
     enable: true
     content: "整理一些宅文化批评相关的阅读、研究资料，以及日本表象文化大学院的考学信息。站长仍在努力中～"
+
+# 加载自定义样式
+inject:
+  head:
+    - <link rel="stylesheet" href="/css/custom.css">
+  bottom:
