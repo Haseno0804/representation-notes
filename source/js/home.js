@@ -24,8 +24,7 @@ document.addEventListener('DOMContentLoaded', function () {
     <div class="home-portal-heading">从这里开始</div>
 
     <div class="home-portal-lead">
-      无论你是为了研究、阅读，还是正在准备日本大学院，
-      都可以从下面找到适合自己的入口。
+      研究、阅读、考学
     </div>
 
     <div class="home-portal-grid">
@@ -76,8 +75,8 @@ document.addEventListener('DOMContentLoaded', function () {
         <h2>大学院考学</h2>
 
         <p>
-          面向日本表象文化相关方向 DIY 考生的
-          流程、择校、教授与研究计划书资料。
+          面向日本表象文化大学院备考生的
+          流程、择校、教授与研究计划书资料等等。
         </p>
 
         <div class="home-portal-link">
